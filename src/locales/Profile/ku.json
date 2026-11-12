@@ -1,0 +1,36 @@
+{
+  "title": "پرۆفایل",
+  "personalInfo": {
+    "title": "زانیاریە کەسیەکان",
+    "description": "وردەکاریە کەسیەکانت لێرە نوێ بکەوە"
+  },
+  "fields": {
+    "firstName": "ناوی یەکەم",
+    "lastName": "ناوی کۆتایی",
+    "email": "ناونیشانی ئیمەیڵ",
+    "phone": "ژمارەی تەلەفۆن"
+  },
+  "placeholders": {
+    "firstName": "ناوی یەکەمت بنووسە",
+    "lastName": "ناوی کۆتاییت بنووسە",
+    "email": "your.email@example.com",
+    "phone": "ژمارەی تەلەفۆنت بنووسە"
+  },
+  "labels": {
+    "email": "ئیمەیڵ",
+    "phone": "تەلەفۆن",
+    "role": "ڕۆڵ"
+  },
+  "messages": {
+    "notSet": "دیارینەکراوە",
+    "emailCannotChange": "ناونیشانی ئیمەیڵ ناگۆڕدرێت",
+    "newPhotoSelected": "وێنەی نوێ هەڵبژێردراوە",
+    "profileUpdated": "پرۆفایل بە سەرکەوتوویی نوێکرایەوە",
+    "updateFailed": "نوێکردنەوەی پرۆفایل سەرکەوتوو نەبوو"
+  },
+  "actions": {
+    "save": "پاشەکەوتکردنی گۆڕانکاریەکان",
+    "cancel": "هەڵوەشاندنەوە",
+    "saving": "پاشەکەوتدەکرێت..."
+  }
+}

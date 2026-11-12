@@ -1,0 +1,42 @@
+{
+  "title": "داواکارییەکان",
+  "backToOrders": "گەڕانەوە بۆ داواکارییەکان",
+  "totalLabel": "کۆ:",
+  "searchPlaceholder": "گەڕان لە داواکارییەکان...",
+  "filterVendorPlaceholder": "فلتەرکردن بە پێی فرۆشیار...",
+  "filterStatusPlaceholder": "فلتەرکردن بە پێی دۆخ",
+  "allStatuses": "هەموو دۆخەکان",
+  "headerTitle": "داواکارییەکان",
+  "headerSubtitle": "بەڕێوەبردن و چاودێری داواکارییەکانی کڕیاران",
+  "table": {
+    "orderNumber": "ژمارەی داواکاری",
+    "customer": "کڕیار",
+    "status": "دۆخ",
+    "dateTime": "بەروار و کات",
+    "total": "کۆ",
+    "guestCustomer": "کڕیاری میوان",
+    "itemsSingle": "{{count}} مادە",
+    "itemsPlural": "{{count}} مادە"
+  },
+  "detail": {
+    "customerInfo": "زانیاری کڕیار",
+    "email": "ئیمەیڵ",
+    "phone": "تەلەفۆن",
+    "deliveryAddressSection": "ناونیشانی گەیاندن",
+    "building": "باڵەخانە",
+    "floor": "نهۆم",
+    "floorWithNumber": "نهۆمی {{number}}",
+    "apartment": "شوقە",
+    "itemsSection": "مادەکان ({{count}})",
+    "qtyPrice": "ژمارە: {{quantity}} × ${{price}}",
+    "summarySection": "پوختە",
+    "subtotal": "کۆی بەرهەم",
+    "deliveryFee": "تێچووی گەیاندن",
+    "totalAmount": "کۆ",
+    "notesSection": "تێبینیەکان",
+    "activitySection": "چالاکی",
+    "orderCreated": "داواکاری دروست کرا",
+    "orderCompleted": "داواکاری تەواو کرا"
+  }
+}
+

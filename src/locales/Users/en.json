@@ -1,0 +1,126 @@
+{
+  "title": "Users Management",
+  "subtitle": "Manage and monitor all users across your platform",
+  "addUser": "Add User",
+  "filterUsers": "Filter Users",
+  "searchPlaceholder": "Name or email...",
+  "buildingPlaceholder": "Select building...",
+  "rolePlaceholder": "Select role",
+  "allRoles": "All Roles",
+  "tableHeaders": {
+    "user": "User",
+    "contact": "Contact",
+    "role": "Role",
+    "location": "Location"
+  },
+  "roles": {
+    "superAdmin": "SuperAdmin",
+    "admin": "Admin",
+    "vendor": "Vendor",
+    "tenant": "Tenant",
+    "driver": "Driver"
+  },
+  "emptyState": {
+    "title": "No Users Found",
+    "description": "We searched everywhere but couldn't find any users matching your criteria. Try adjusting your filters or search terms.",
+    "suggestions": {
+      "differentSearch": "Try a different search",
+      "clearFilters": "Clear filters",
+      "checkSpelling": "Check spelling"
+    }
+  },
+  "error": "Error",
+  "createUser": {
+    "title": "Create New User",
+    "subtitle": "Add a new user to the system",
+    "cancel": "Cancel",
+    "createButton": "Create User",
+    "creating": "Creating...",
+    "userType": {
+      "title": "User Type",
+      "description": "Select the type of user account to create",
+      "staff": {
+        "title": "Staff Account",
+        "description": "Admin or Vendor with system access"
+      },
+      "customer": {
+        "title": "Customer Account",
+        "description": "Tenant with standard access"
+      }
+    },
+    "userInformation": "User Information",
+    "fillDetails": "Fill in the details for the new {{type}}",
+    "passwordMismatch": "Passwords do not match",
+    "passwordMismatchDesc": "Please make sure both password fields are identical.",
+    "createSuccess": "User Created Successfully!",
+    "createSuccessDesc": "{{name}} has been added to the system.",
+    "createError": "Failed to Create User",
+    "createErrorDesc": "An error occurred while creating the user."
+  },
+  "userDetails": {
+    "title": "User Details",
+    "subtitle": "View and edit user information",
+    "unsavedChanges": "(Unsaved changes)",
+    "userInformation": "User Information",
+    "userInformationDesc": "View and update user profile details",
+    "uploadPhoto": "Upload Photo",
+    "userId": "User ID",
+    "contactInformation": "Contact Information",
+    "contactInformationDesc": "Email and phone details",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "security": "Security",
+    "securityDesc": "Update user password (Optional)",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "passwordNote": "Leave blank to keep the current password. Password must be at least 8 characters long.",
+    "locationInformation": "Location Information",
+    "locationInformationDesc": "Building and address details",
+    "address": "Address",
+    "building": "Building",
+    "buildingPlaceholder": "Enter building name",
+    "optional": "(Optional)"
+  },
+  "forms": {
+    "uploadPhoto": "Upload Photo",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "John",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Doe",
+    "userRole": "User Role",
+    "selectRole": "Select a role",
+    "contactInformation": "Contact Information",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "john.doe@example.com",
+    "phoneNumber": "Phone Number",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "security": "Security",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "confirmPassword": "Confirm Password",
+    "passwordRequirement": "Password must be at least 8 characters long",
+    "addressInformation": "Address Information",
+    "validation": {
+      "firstNameRequired": "First name is required",
+      "lastNameRequired": "Last name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 8 characters",
+      "passwordUppercase": "Password must contain at least one uppercase letter",
+      "passwordLowercase": "Password must contain at least one lowercase letter",
+      "passwordNumber": "Password must contain at least one number",
+      "passwordSpecial": "Password must contain at least one special character",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Please enter a valid phone number"
+    },
+    "optional": "(Optional)",
+    "building": "Building",
+    "selectBuilding": "Select building",
+    "floor": "Floor",
+    "selectFloor": "Select floor",
+    "apartment": "Apartment",
+    "selectApartment": "Select apt"
+  }
+}

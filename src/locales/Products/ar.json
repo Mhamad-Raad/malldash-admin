@@ -1,0 +1,134 @@
+{
+  "title": "المنتجات",
+  "subtitle": "إدارة مخزون منتجاتك",
+  "emptyState": {
+    "title": "لم يتم العثور على منتجات",
+    "description": "بحثنا في كل مكان ولكن لم نتمكن من العثور على أي منتجات تطابق معاييرك. حاول ضبط الفلاتر أو مصطلحات البحث.",
+    "action": "إضافة منتج",
+    "suggestions": {
+      "differentSearch": "جرب بحثاً مختلفاً",
+      "clearFilters": "مسح الفلاتر",
+      "checkSpelling": "تحقق من الإملاء"
+    }
+  },
+  "filters": {
+    "title": "تصفية المنتجات",
+    "search": "البحث عن المنتجات...",
+    "vendor": "اختر البائع",
+    "category": "اختر الفئة",
+    "stockStatus": "حالة المخزون",
+    "inStock": "في المخزون",
+    "outOfStock": "نفذت الكمية",
+    "allStatus": "جميع الحالات",
+    "filtered": "مصفى",
+    "clearSearch": "مسح البحث",
+    "clearAll": "مسح جميع الفلاتر"
+  },
+  "table": {
+    "product": "المنتج",
+    "price": "السعر",
+    "category": "الفئة",
+    "vendor": "البائع",
+    "stock": "المخزون",
+    "inStock": "في المخزون",
+    "outOfStock": "نفذت الكمية",
+    "id": "المعرف"
+  },
+  "actions": {
+    "create": "إضافة منتج",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "view": "عرض التفاصيل"
+  },
+  "error": "خطأ",
+  "productDetail": {
+    "header": {
+      "title": "تفاصيل المنتج",
+      "subtitle": "عرض وتعديل معلومات المنتج",
+      "unsavedChanges": "• تغييرات غير محفوظة",
+      "deleteButton": "حذف"
+    },
+    "imageCard": {
+      "title": "معلومات المنتج",
+      "description": "التفاصيل الأساسية وصورة المنتج",
+      "uploadImage": "انقر للتحميل",
+      "newImage": "جديد:",
+      "productName": "اسم المنتج",
+      "required": "*",
+      "productNamePlaceholder": "أدخل اسم المنتج",
+      "vendor": "المورد",
+      "productId": "معرف المنتج",
+      "price": "السعر",
+      "off": "خصم",
+      "category": "الفئة",
+      "categoryPlaceholder": "اختر فئة...",
+      "description": "الوصف",
+      "descriptionPlaceholder": "وصف المنتج..."
+    },
+    "pricingCard": {
+      "title": "التسعير",
+      "description": "تحديد أسعار وخصومات المنتج",
+      "regularPrice": "السعر العادي",
+      "required": "*",
+      "pricePlaceholder": "0.00",
+      "discountPrice": "سعر الخصم",
+      "discountBadge": "% خصم",
+      "discountError": "يجب أن يكون سعر الخصم أقل من السعر العادي"
+    },
+    "statusCard": {
+      "title": "حالة المنتج",
+      "description": "إدارة التوفر وإعدادات المنتج",
+      "inStock": "متوفر",
+      "inStockDescription": "متاح للشراء",
+      "soldByWeight": "يُباع بالوزن",
+      "soldByWeightDescription": "السعر لكل وحدة وزن"
+    },
+    "footer": {
+      "cancel": "إلغاء",
+      "saveChanges": "حفظ التغييرات",
+      "saving": "جاري الحفظ..."
+    },
+    "modals": {
+      "update": {
+        "title": "تحديث المنتج",
+        "description": "هل أنت متأكد من تحديث هذا المنتج؟",
+        "confirmLabel": "تحديث",
+        "cancelLabel": "إلغاء"
+      },
+      "delete": {
+        "title": "حذف المنتج",
+        "description": "هل أنت متأكد من حذف هذا المنتج؟",
+        "warning": "تحذير! لا يمكن التراجع عن هذا الإجراء.",
+        "confirmLabel": "حذف",
+        "cancelLabel": "إلغاء"
+      }
+    },
+    "changeFields": {
+      "name": "الاسم",
+      "description": "الوصف",
+      "price": "السعر",
+      "discountPrice": "سعر الخصم",
+      "inStock": "متوفر",
+      "weightable": "قابل للوزن",
+      "category": "الفئة",
+      "image": "الصورة",
+      "empty": "(فارغ)",
+      "none": "لا يوجد",
+      "yes": "نعم",
+      "no": "لا",
+      "currentImage": "الصورة الحالية"
+    },
+    "errorCard": {
+      "title": "فشل تحميل المنتج",
+      "backButton": "العودة للمنتجات"
+    },
+    "toasts": {
+      "requiredFields": "يرجى ملء جميع الحقول المطلوبة",
+      "updateSuccess": "تم تحديث المنتج بنجاح",
+      "updateError": "فشل تحديث المنتج",
+      "deleteSuccess": "تم حذف المنتج بنجاح",
+      "deleteError": "فشل حذف المنتج",
+      "loadError": "فشل تحميل تفاصيل المنتج"
+    }
+  }
+}

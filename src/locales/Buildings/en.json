@@ -1,0 +1,106 @@
+{
+  "title": "Buildings Management",
+  "subtitle": "Manage buildings, floors, and apartments",
+  "addBuilding": "Add Building",
+  "filterBuildings": "Filter Buildings",
+  "searchPlaceholder": "Search buildings...",
+  "tableHeaders": {
+    "buildingName": "Building Name",
+    "totalFloors": "Total Floors",
+    "totalApartments": "Total Apartments",
+    "occupancyRate": "Occupancy Rate",
+    "actions": "Actions"
+  },
+  "emptyState": {
+    "title": "No Buildings Found",
+    "description": "We searched everywhere but couldn't find any buildings matching your criteria. Try adjusting your filters or search terms.",
+    "createButton": "Create Building",
+    "suggestions": {
+      "differentSearch": "Try a different search",
+      "clearFilters": "Clear filters",
+      "checkSpelling": "Check spelling"
+    }
+  },
+  "actions": {
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "modal": {
+    "title": "Create New Building",
+    "description": "Enter the name of the building you want to create.",
+    "buildingNameLabel": "Building Name",
+    "buildingNamePlaceholder": "Enter building name...",
+    "cancel": "Cancel",
+    "createButton": "Create Building",
+    "creating": "Creating...",
+    "errorCreating": "Failed to create building."
+  },
+  "detail": {
+    "backToBuildings": "Back to Buildings",
+    "nameRequired": "Name required",
+    "nameMustBeChanged": "Name must be changed",
+    "confirmNameChange": "Confirm name change",
+    "nameUpdated": "Building name updated.",
+    "confirmNameChangeTitle": "Confirm Name Change",
+    "confirmNameChangeDescription": "Are you sure you want to change the building name?",
+    "confirmNameChangeWarning": "Please double check all details before confirming.",
+    "fieldBuildingName": "Building Name",
+    "confirm": "Confirm",
+    "actionsLabel": "Actions",
+    "editBuildingName": "Edit building name",
+    "deleteBuilding": "Delete building",
+    "notFound": "Building Not Found",
+    "notFoundDescription": "The building you're looking for doesn't exist.",
+    "summary": {
+      "occupied": "Occupied",
+      "vacant": "Vacant",
+      "totalApartments": "Total Apartments",
+      "floors": "Floors"
+    },
+    "floors": {
+      "title": "Floors & Apartments",
+      "totalFloors": "floor",
+      "totalFloorsPlural": "floors",
+      "total": "total",
+      "addFloor": "Add Floor",
+      "floor": "Floor",
+      "unit": "unit",
+      "unitsPlural": "units",
+      "addApartment": "Add Apartment",
+      "addFloorTitle": "Add Floor",
+      "addFloorDescription": "Are you sure you want to add a new floor to this building?",
+      "addFloorConfirm": "Add Floor",
+      "deleteFloorTitle": "Delete Floor",
+      "deleteFloorDescription": "Are you sure you want to delete Floor {{floorNumber}}?",
+      "deleteFloorWarning": "WARNING! This will permanently remove the floor and all its apartments.",
+      "deleteFloorConfirm": "Delete",
+      "floorNumberField": "Floor Number",
+      "willBeDeleted": "Will be deleted",
+      "failedToDeleteFloor": "Failed to delete floor."
+    },
+    "apartment": {
+      "occupied": "Occupied",
+      "vacant": "Vacant",
+      "noResidentAssigned": "No resident assigned",
+      "editApartment": "Edit Apartment",
+      "manageOccupants": "Manage apartment occupants. Add or edit occupant information.",
+      "apartmentNameLabel": "Apartment Name",
+      "apartmentNamePlaceholder": "Enter apartment name",
+      "searchUserPlaceholder": "Search user by name, email, or number",
+      "occupantLabel": "Occupant",
+      "noOccupantsAssigned": "No occupants assigned",
+      "cancel": "Cancel",
+      "deleteApartment": "Delete Apartment",
+      "saveChanges": "Save Changes"
+    },
+    "addApartmentModal": {
+      "title": "Create a new apartment for Floor {{floorNumber}}",
+      "apartmentNameLabel": "Apartment Name",
+      "apartmentNamePlaceholder": "Apartment Name",
+      "apartmentNameRequired": "Apartment name is required.",
+      "cancel": "Cancel",
+      "addApartment": "Add Apartment"
+    }
+  }
+}

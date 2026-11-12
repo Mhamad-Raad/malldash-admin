@@ -1,0 +1,179 @@
+{
+  "title": "Vendors Management",
+  "subtitle": "Manage and monitor all vendors",
+  "addVendor": "Add Vendor",
+  "filterVendors": "Filter Vendors",
+  "searchPlaceholder": "Search vendors...",
+  "filterByType": "Filter by type",
+  "allTypes": "All Types",
+  "all": "All",
+  "tableHeaders": {
+    "business": "Business",
+    "owner": "Owner",
+    "type": "Type",
+    "contact": "Contact",
+    "workingHours": "Working Hours"
+  },
+  "emptyState": {
+    "title": "No Vendors Found",
+    "description": "We searched everywhere but couldn't find any vendors matching your criteria. Try adjusting your filters or search terms.",
+    "suggestions": {
+      "differentSearch": "Try a different search",
+      "clearFilters": "Clear filters",
+      "checkSpelling": "Check spelling"
+    }
+  },
+  "createVendor": {
+    "title": "Create New Vendor",
+    "subtitle": "Add a new vendor to your mall directory",
+    "basicInfo": {
+      "title": "Basic Information",
+      "subtitle": "Enter the vendor's basic details",
+      "businessName": "Business Name",
+      "businessNamePlaceholder": "Enter business name",
+      "businessType": "Business Type",
+      "selectType": "Select type",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe your business...",
+      "id": "ID"
+    },
+    "workingHours": {
+      "title": "Working Hours",
+      "subtitle": "Set the vendor's operating hours",
+      "openingTime": "Opening Time",
+      "closingTime": "Closing Time",
+      "validationError": "⚠️ Closing time must be after opening time"
+    },
+    "preview": {
+      "title": "Preview",
+      "vendorName": "Vendor Name",
+      "notSet": "Not set",
+      "type": "Type",
+      "notSelected": "Not selected",
+      "hours": "Hours",
+      "assignedUser": "Assigned User",
+      "notAssigned": "Not assigned",
+      "logoImage": "Logo/Image"
+    },
+    "actions": {
+      "create": "Create Vendor",
+      "creating": "Creating...",
+      "cancel": "Cancel"
+    },
+    "note": "Note:",
+    "noteMessage": "All fields marked with * are required. Make sure to provide accurate information for the vendor.",
+    "validation": {
+      "error": "Validation Error",
+      "nameRequired": "Please enter vendor name",
+      "descriptionRequired": "Please enter vendor description",
+      "openingTimeRequired": "Please select opening time",
+      "closingTimeRequired": "Please select closing time",
+      "userRequired": "Please select a user to manage this vendor",
+      "timeLogicError": "Closing time must be after opening time"
+    },
+    "success": {
+      "title": "Vendor Created Successfully!",
+      "description": "{{name}} has been added to the system."
+    },
+    "error": {
+      "title": "Failed to Create Vendor",
+      "description": "An error occurred while creating the vendor.",
+      "unexpected": "An unexpected error occurred. Please try again."
+    }
+  },
+  "vendorDetail": {
+    "backToVendors": "Back to Vendors",
+    "notFound": "Vendor Not Found",
+    "notFoundDescription": "The vendor you're looking for doesn't exist.",
+    "basicInfo": {
+      "title": "Basic Information",
+      "subtitle": "Update the vendor's basic details"
+    },
+    "workingHours": {
+      "title": "Working Hours",
+      "subtitle": "Manage the vendor's operating hours"
+    },
+    "actions": {
+      "saveChanges": "Save Changes",
+      "saving": "Saving...",
+      "cancel": "Cancel",
+      "deleteVendor": "Delete Vendor"
+    },
+    "preview": {
+      "title": "Current Details",
+      "vendorName": "Vendor Name",
+      "type": "Type",
+      "hours": "Hours",
+      "assignedUser": "Assigned User",
+      "logoImage": "Logo/Image"
+    },
+    "confirmDelete": {
+      "title": "Delete Vendor",
+      "description": "Are you sure you want to permanently delete this vendor?",
+      "warning": "This action cannot be undone.",
+      "confirm": "Delete",
+      "cancel": "Cancel",
+      "fieldName": "Vendor Name",
+      "willBeDeleted": "Will be deleted"
+    },
+    "success": {
+      "updated": "Vendor updated successfully!",
+      "updatedDescription": "{{name}} has been updated.",
+      "deleted": "Vendor deleted successfully!",
+      "deletedDescription": "The vendor has been successfully deleted."
+    },
+    "error": {
+      "loadFailed": "Failed to Load Vendor",
+      "updateFailed": "Failed to Update Vendor",
+      "deleteFailed": "Failed to Delete Vendor",
+      "missingId": "Error",
+      "missingIdDescription": "Vendor ID is missing"
+    }
+  },
+  "photoUpload": {
+    "title": "Vendor Logo",
+    "uploadNew": "Upload New",
+    "changePhoto": "Change Photo",
+    "removePhoto": "Remove Photo"
+  },
+  "userAssignment": {
+    "title": "User Assignment",
+    "subtitle": "Assign a user to manage this vendor",
+    "selectManager": "Select Vendor Manager",
+    "currentUser": "Current User",
+    "searchPlaceholder": "Search for a user...",
+    "noUserAssigned": "No user assigned",
+    "assignUser": "Assign User",
+    "changeUser": "Change User",
+    "email": "Email",
+    "phone": "Phone",
+    "sendEmail": "Send Email",
+    "call": "Call",
+    "roles": {
+      "admin": "Admin",
+      "manager": "Manager",
+      "vendor": "Vendor",
+      "user": "User"
+    }
+  },
+  "timeline": {
+    "businessSchedule": "Business Schedule",
+    "open": "open",
+    "openLabel": "Open",
+    "closeLabel": "Close",
+    "morningHours": "🌅 Morning hours",
+    "allDayService": "☀️ All day service",
+    "eveningHours": "🌙 Evening/night hours",
+    "afternoonHours": "🌤️ Afternoon hours",
+    "customSchedule": "📅 Custom schedule"
+  },
+  "types": {
+    "allTypes": "All Types",
+    "restaurant": "Restaurant",
+    "market": "Market",
+    "bakery": "Bakery",
+    "cafe": "Cafe",
+    "pharmacy": "Pharmacy",
+    "other": "Other"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appName": "MallDash",
+  "appSubtitle": "Dashboard",
+  "mainMenu": "Main Menu",
+  "management": "Management",
+  "system": "System",
+  "dashboard": "Dashboard",
+  "users": "Users",
+  "buildings": "Buildings",
+  "vendors": "Vendors",
+  "products": "Products",
+  "orders": "Orders",
+  "supportTickets": "Support Tickets",
+  "analytics": "Analytics",
+  "reports": "Reports",
+  "settings": "Settings",
+  "accountMenu": "Account",
+  "manageProfile": "Manage your profile",
+  "logout": "Log out",
+  "profile": "Profile",
+  "themes": "Themes",
+  "History": "History"
+}

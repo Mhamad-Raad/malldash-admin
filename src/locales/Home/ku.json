@@ -1,0 +1,66 @@
+{
+  "title": "داشبۆرد",
+  "subtitle": "بەخێربێیتەوە! ئەمە پوختەیەکە لەسەر سیستەمەکەت.",
+  "lastUpdated": "دوایین نوێکردنەوە",
+  "cards": {
+    "orders": "داواکاریەکان",
+    "users": "بەکارهێنەران",
+    "vendors": "فرۆشیارەکان",
+    "buildings": "بیناکان",
+    "apartments": "شوقەکان",
+    "products": "بەرهەمەکان",
+    "requests": "داواکاریەکان",
+    "downThisMonth": "کەمبوونەوە {{percent}} ئەم مانگە",
+    "upThisMonth": "زیادبوون {{percent}} ئەم مانگە",
+    "applicationWide": "لە سەرانسەری بەرنامە",
+    "webBasedVendors": "فرۆشیارانی ئینتەرنێتی",
+    "customerRequests": "داواکاریەکانی کڕیاران",
+    "activeVendors": "فرۆشیارە چالاکەکان لە سیستەم",
+    "managedBuildings": "بیناکانی بەڕێوەبراو",
+    "listedProducts": "بەرهەمە تۆمارکراوەکان"
+  },
+  "sections": {
+    "overview": "پوختە",
+    "recentOrders": "داواکاریە تازەکان",
+    "topSelling": "زۆرترین فرۆشتن",
+    "recentActivity": "چالاکی تازە",
+    "quickActions": "کردارە خێراکان",
+    "updates": "نوێکردنەوەکان",
+    "noActivity": "هیچ چالاکییەکی تازە نییە"
+  },
+  "status": {
+    "onGoing": "لە جێبەجێکردندایە",
+    "canceled": "هەڵوەشاوەتەوە",
+    "onTheWay": "لە ڕێگادایە",
+    "delivered": "گەیشتووە"
+  },
+  "occupancy": {
+    "title": "قەرەباڵغی بیناکان",
+    "description": "دۆخی قەرەباڵغی ئێستا لە سەرانسەری بیناکان",
+    "occupied": "داگیرکراو",
+    "vacant": "بەتاڵ",
+    "totalApartments": "کۆی شوقەکان",
+    "totalBuildings": "کۆی بیناکان",
+    "byBuilding": "بە پێی بینا"
+  },
+  "vendors": {
+    "distribution": "دابەشکردنی فرۆشیارەکان",
+    "distributionDesc": "دابەشکردن بە پێی جۆری فرۆشیار",
+    "total": "کۆی فرۆشیارەکان",
+    "noData": "هیچ داتایەکی فرۆشیار بەردەست نییە",
+    "topVendors": "باشترین فرۆشیارەکان",
+    "topDesc": "فرۆشیارەکان کە زۆرترین داواکاریان هەیە",
+    "noVendors": "هیچ فرۆشیارێک نەدۆزرایەوە"
+  },
+  "actions": {
+    "refresh": "نوێکردنەوە",
+    "viewAll": "بینینی هەمووی",
+    "showAll": "پیشاندانی هەمووی",
+    "showLess": "پیشاندانی کەمتر",
+    "addUser": "زیادکردنی بەکارهێنەر",
+    "addVendor": "زیادکردنی فرۆشیار",
+    "addBuilding": "زیادکردنی بینا",
+    "addProduct": "زیادکردنی بەرهەم",
+    "settings": "ڕێکخستنەکان"
+  }
+}

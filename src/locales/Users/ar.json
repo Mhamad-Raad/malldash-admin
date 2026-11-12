@@ -1,0 +1,126 @@
+{
+  "title": "إدارة المستخدمين",
+  "subtitle": "إدارة ومراقبة جميع المستخدمين عبر منصتك",
+  "addUser": "إضافة مستخدم",
+  "filterUsers": "تصفية المستخدمين",
+  "searchPlaceholder": "الاسم أو البريد الإلكتروني...",
+  "buildingPlaceholder": "اختر المبنى...",
+  "rolePlaceholder": "اختر الدور",
+  "allRoles": "جميع الأدوار",
+  "tableHeaders": {
+    "user": "المستخدم",
+    "contact": "الاتصال",
+    "role": "الدور",
+    "location": "الموقع"
+  },
+  "roles": {
+    "superAdmin": "مدير عام",
+    "admin": "مدير",
+    "vendor": "بائع",
+    "tenant": "مستأجر",
+    "driver": "سائق"
+  },
+  "emptyState": {
+    "title": "لم يتم العثور على مستخدمين",
+    "description": "بحثنا في كل مكان ولكن لم نتمكن من العثور على أي مستخدمين يطابقون معاييرك. حاول ضبط الفلاتر أو مصطلحات البحث.",
+    "suggestions": {
+      "differentSearch": "جرب بحثاً مختلفاً",
+      "clearFilters": "مسح الفلاتر",
+      "checkSpelling": "تحقق من الإملاء"
+    }
+  },
+  "error": "خطأ",
+  "createUser": {
+    "title": "إنشاء مستخدم جديد",
+    "subtitle": "إضافة مستخدم جديد إلى النظام",
+    "cancel": "إلغاء",
+    "createButton": "إنشاء مستخدم",
+    "creating": "جاري الإنشاء...",
+    "userType": {
+      "title": "نوع المستخدم",
+      "description": "اختر نوع حساب المستخدم المراد إنشاؤه",
+      "staff": {
+        "title": "حساب موظف",
+        "description": "مدير أو بائع مع صلاحيات النظام"
+      },
+      "customer": {
+        "title": "حساب عميل",
+        "description": "مستأجر مع صلاحيات قياسية"
+      }
+    },
+    "userInformation": "معلومات المستخدم",
+    "fillDetails": "املأ التفاصيل الخاصة بـ {{type}} الجديد",
+    "passwordMismatch": "كلمات المرور غير متطابقة",
+    "passwordMismatchDesc": "يرجى التأكد من تطابق حقول كلمة المرور.",
+    "createSuccess": "تم إنشاء المستخدم بنجاح!",
+    "createSuccessDesc": "تمت إضافة {{name}} إلى النظام.",
+    "createError": "فشل إنشاء المستخدم",
+    "createErrorDesc": "حدث خطأ أثناء إنشاء المستخدم."
+  },
+  "userDetails": {
+    "title": "تفاصيل المستخدم",
+    "subtitle": "عرض وتعديل معلومات المستخدم",
+    "unsavedChanges": "(تغييرات غير محفوظة)",
+    "userInformation": "معلومات المستخدم",
+    "userInformationDesc": "عرض وتحديث تفاصيل الملف الشخصي للمستخدم",
+    "uploadPhoto": "تحميل الصورة",
+    "userId": "معرف المستخدم",
+    "contactInformation": "معلومات الاتصال",
+    "contactInformationDesc": "تفاصيل البريد الإلكتروني والهاتف",
+    "emailAddress": "عنوان البريد الإلكتروني",
+    "phoneNumber": "رقم الهاتف",
+    "security": "الأمان",
+    "securityDesc": "تحديث كلمة مرور المستخدم (اختياري)",
+    "newPassword": "كلمة المرور الجديدة",
+    "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+    "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+    "passwordNote": "اتركه فارغًا للاحتفاظ بكلمة المرور الحالية. يجب أن تتكون كلمة المرور من 8 أحرف على الأقل.",
+    "locationInformation": "معلومات الموقع",
+    "locationInformationDesc": "تفاصيل المبنى والعنوان",
+    "address": "العنوان",
+    "building": "المبنى",
+    "buildingPlaceholder": "أدخل اسم المبنى",
+    "optional": "(اختياري)"
+  },
+  "forms": {
+    "uploadPhoto": "تحميل الصورة",
+    "firstName": "الاسم الأول",
+    "firstNamePlaceholder": "أحمد",
+    "lastName": "الاسم الأخير",
+    "lastNamePlaceholder": "محمد",
+    "userRole": "دور المستخدم",
+    "selectRole": "اختر دورًا",
+    "contactInformation": "معلومات الاتصال",
+    "emailAddress": "عنوان البريد الإلكتروني",
+    "emailPlaceholder": "ahmad.mohammed@example.com",
+    "phoneNumber": "رقم الهاتف",
+    "phonePlaceholder": "+964 770 123 4567",
+    "security": "الأمان",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "••••••••",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "passwordRequirement": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+    "addressInformation": "معلومات العنوان",
+    "validation": {
+      "firstNameRequired": "الاسم الأول مطلوب",
+      "lastNameRequired": "اسم العائلة مطلوب",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "emailInvalid": "يرجى إدخال بريد إلكتروني صالح",
+      "passwordRequired": "كلمة المرور مطلوبة",
+      "passwordMinLength": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+      "passwordUppercase": "يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل",
+      "passwordLowercase": "يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل",
+      "passwordNumber": "يجب أن تحتوي كلمة المرور على رقم واحد على الأقل",
+      "passwordSpecial": "يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل",
+      "phoneRequired": "رقم الهاتف مطلوب",
+      "phoneInvalid": "يرجى إدخال رقم هاتف صالح"
+    },
+    "optional": "(اختياري)",
+    "building": "المبنى",
+    "selectBuilding": "اختر المبنى",
+    "floor": "الطابق",
+    "selectFloor": "اختر الطابق",
+    "apartment": "الشقة",
+    "selectApartment": "اختر الشقة"
+  }
+}

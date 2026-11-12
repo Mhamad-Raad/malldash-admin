@@ -1,0 +1,126 @@
+{
+  "title": "بەڕێوەبردنی بەکارهێنەران",
+  "subtitle": "بەڕێوەبردن و چاودێریکردنی هەموو بەکارهێنەران لە پلاتفۆرمەکەتدا",
+  "addUser": "زیادکردنی بەکارهێنەر",
+  "filterUsers": "فلتەرکردنی بەکارهێنەران",
+  "searchPlaceholder": "ناو یان ئیمەیڵ...",
+  "buildingPlaceholder": "باڵەخانە هەڵبژێرە...",
+  "rolePlaceholder": "ڕۆڵ هەڵبژێرە",
+  "allRoles": "هەموو ڕۆڵەکان",
+  "tableHeaders": {
+    "user": "بەکارهێنەر",
+    "contact": "پەیوەندی",
+    "role": "ڕۆڵ",
+    "location": "شوێن"
+  },
+  "roles": {
+    "superAdmin": "بەڕێوەبەری گشتی",
+    "admin": "بەڕێوەبەر",
+    "vendor": "فرۆشیار",
+    "tenant": "کرێچی",
+    "driver": "شۆفێر"
+  },
+  "emptyState": {
+    "title": "هیچ بەکارهێنەرێک نەدۆزرایەوە",
+    "description": "لە هەموو شوێنێک گەڕاین بەڵام نەمانتوانی هیچ بەکارهێنەرێک بدۆزینەوە کە لەگەڵ پێوەرەکانت بگونجێت. هەوڵبدە فلتەرەکان یان زاراوەکانی گەڕان بگۆڕیت.",
+    "suggestions": {
+      "differentSearch": "گەڕانێکی جیاواز تاقی بکەوە",
+      "clearFilters": "سڕینەوەی فلتەرەکان",
+      "checkSpelling": "پشکنینی ڕێنووس"
+    }
+  },
+  "error": "هەڵە",
+  "createUser": {
+    "title": "دروستکردنی بەکارهێنەری نوێ",
+    "subtitle": "زیادکردنی بەکارهێنەرێکی نوێ بۆ سیستەم",
+    "cancel": "هەڵوەشاندنەوە",
+    "createButton": "دروستکردنی بەکارهێنەر",
+    "creating": "دروستکردن...",
+    "userType": {
+      "title": "جۆری بەکارهێنەر",
+      "description": "جۆری ئەکاونتی بەکارهێنەر هەڵبژێرە بۆ دروستکردن",
+      "staff": {
+        "title": "ئەکاونتی کارمەند",
+        "description": "بەڕێوەبەر یان فرۆشیار لەگەڵ دەستڕاگەیشتنی سیستەم"
+      },
+      "customer": {
+        "title": "ئەکاونتی کڕیار",
+        "description": "کرێچی لەگەڵ دەستڕاگەیشتنی ئاسایی"
+      }
+    },
+    "userInformation": "زانیاری بەکارهێنەر",
+    "fillDetails": "وردەکارییەکانی {{type}}ی نوێ پڕبکەوە",
+    "passwordMismatch": "وشەی نهێنیەکان یەکناگرنەوە",
+    "passwordMismatchDesc": "تکایە دڵنیابە کە هەردوو خانەی وشەی نهێنی وەکو یەکن.",
+    "createSuccess": "بەکارهێنەر بە سەرکەوتوویی دروستکرا!",
+    "createSuccessDesc": "{{name}} زیادکرا بۆ سیستەم.",
+    "createError": "شکستی هێنا لە دروستکردنی بەکارهێنەر",
+    "createErrorDesc": "هەڵەیەک ڕوویدا لە کاتی دروستکردنی بەکارهێنەر."
+  },
+  "userDetails": {
+    "title": "وردەکارییەکانی بەکارهێنەر",
+    "subtitle": "بینین و دەستکاریکردنی زانیاریەکانی بەکارهێنەر",
+    "unsavedChanges": "(گۆرانکارییە پاشەکەوت نەکراوەکان)",
+    "userInformation": "زانیاریی بەکارهێنەر",
+    "userInformationDesc": "بینین و نوێکردنەوەی وردەکارییەکانی پرۆفایلی بەکارهێنەر",
+    "uploadPhoto": "بارکردنی وێنە",
+    "userId": "ناسنامەی بەکارهێنەر",
+    "contactInformation": "زانیاری پەیوەندی",
+    "contactInformationDesc": "وردەکاری ئیمەیڵ و ژمارەی مۆبایل",
+    "emailAddress": "ناونیشانی ئیمەیڵ",
+    "phoneNumber": "ژمارەی مۆبایل",
+    "security": "پارێزی",
+    "securityDesc": "نوێکردنەوەی وشەی نهێنی بەکارهێنەر (ئیختیاری)",
+    "newPassword": "وشەی نهێنی نوێ",
+    "confirmNewPassword": "دڵنیاکردنەوەی وشەی نهێنی نوێ",
+    "passwordsDoNotMatch": "وشەکانی نهێنی یەک ناگرنەوە",
+    "passwordNote": "بەتاڵی بهێڵەوە بۆ هێشتنەوەی وشەی نهێنی ئێستا. وشەی نهێنی دەبێت لای کەم ٨ پیت بێت.",
+    "locationInformation": "زانیاری شوێن",
+    "locationInformationDesc": "وردەکاری باڵەخانە و ناونیشان",
+    "address": "ناونیشان",
+    "building": "باڵەخانە",
+    "buildingPlaceholder": "ناوی باڵەخانە بنووسە",
+    "optional": "(ئیختیاری)"
+  },
+  "forms": {
+    "uploadPhoto": "بارکردنی وێنە",
+    "firstName": "ناوی یەکەم",
+    "firstNamePlaceholder": "ئەحمەد",
+    "lastName": "ناوی کۆتایی",
+    "lastNamePlaceholder": "محەمەد",
+    "userRole": "ڕۆڵی بەکارهێنەر",
+    "selectRole": "ڕۆڵێک هەڵبژێرە",
+    "contactInformation": "زانیاری پەیوەندی",
+    "emailAddress": "ناونیشانی ئیمەیڵ",
+    "emailPlaceholder": "ahmad.mohammed@example.com",
+    "phoneNumber": "ژمارەی مۆبایل",
+    "phonePlaceholder": "+964 770 123 4567",
+    "security": "پارێزی",
+    "password": "وشەی نهێنی",
+    "passwordPlaceholder": "••••••••",
+    "confirmPassword": "دڵنیاکردنەوەی وشەی نهێنی",
+    "passwordRequirement": "وشەی نهێنی دەبێت لای کەم 8 پیت بێت",
+    "addressInformation": "زانیاری ناونیشان",
+    "validation": {
+      "firstNameRequired": "ناوی یەکەم پێویستە",
+      "lastNameRequired": "ناوی خێزان پێویستە",
+      "emailRequired": "ئیمەیڵ پێویستە",
+      "emailInvalid": "تکایە ئیمەیڵێکی دروست بنووسە",
+      "passwordRequired": "وشەی نهێنی پێویستە",
+      "passwordMinLength": "وشەی نهێنی دەبێت لای کەم 8 پیت بێت",
+      "passwordUppercase": "وشەی نهێنی دەبێت لای کەم یەک پیتی گەورە هەبێت",
+      "passwordLowercase": "وشەی نهێنی دەبێت لای کەم یەک پیتی بچووک هەبێت",
+      "passwordNumber": "وشەی نهێنی دەبێت لای کەم یەک ژمارە هەبێت",
+      "passwordSpecial": "وشەی نهێنی دەبێت لای کەم یەک هێمای تایبەت هەبێت",
+      "phoneRequired": "ژمارەی مۆبایل پێویستە",
+      "phoneInvalid": "تکایە ژمارەی مۆبایلێکی دروست بنووسە"
+    },
+    "optional": "(ئیختیاری)",
+    "building": "باڵەخانە",
+    "selectBuilding": "باڵەخانە هەڵبژێرە",
+    "floor": "نهۆم",
+    "selectFloor": "نهۆم هەڵبژێرە",
+    "apartment": "شوقە",
+    "selectApartment": "شوقە هەڵبژێرە"
+  }
+}

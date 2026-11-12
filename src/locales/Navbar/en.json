@@ -1,0 +1,15 @@
+{
+  "home": "Home",
+  "dashboard": "Dashboard",
+  "users": "Users",
+  "create": "Create",
+  "vendors": "Vendors",
+  "products": "Products",
+  "buildings": "Buildings",
+  "reports": "Reports",
+  "settings": "Settings",
+  "toggleSidebar": "Toggle Sidebar",
+  "buildingsManagement": "Buildings Management",
+  "vendorsManagement": "Vendors Management",
+  "productsManagement": "Products Management"
+}

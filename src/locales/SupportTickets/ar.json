@@ -1,0 +1,90 @@
+{
+  "page": {
+    "title": "تذاكر الدعم",
+    "subtitle": "عرض وإدارة تذاكر الدعم من السكان والمورّدين."
+  },
+  "filters": {
+    "searchPlaceholder": "بحث في التذاكر...",
+    "statusPlaceholder": "الحالة",
+    "filterLabel": "تصفية التذاكر",
+    "apply": "تصفية",
+    "clear": "مسح"
+  },
+  "table": {
+    "headers": {
+      "ticket": "التذكرة",
+      "subject": "العنوان",
+      "user": "المستخدم",
+      "status": "الحالة",
+      "priority": "الأولوية",
+      "created": "تاريخ الإنشاء"
+    },
+    "empty": "لا توجد تذاكر دعم",
+    "error": "خطأ: {{message}}"
+  },
+  "status": {
+    "all": "جميع الحالات",
+    "open": "مفتوحة",
+    "inProgress": "قيد المعالجة",
+    "resolved": "تم الحل",
+    "closed": "مغلقة",
+    "unknown": "غير معروفة"
+  },
+  "priority": {
+    "low": "منخفضة",
+    "medium": "متوسطة",
+    "high": "مرتفعة",
+    "urgent": "عاجلة"
+  },
+  "detail": {
+    "invalidId": "معرّف التذكرة غير صالح",
+    "title": "تذكرة دعم",
+    "errorTitle": "تعذر تحميل التذكرة",
+    "errorDescription": "لم يتم العثور على التذكرة أو لا تملك صلاحية الوصول.",
+    "ticketHeading": "التذكرة #{{ticketNumber}}",
+    "createdAt": "تم الإنشاء في {{date}}",
+    "created": "تم الإنشاء {{date}}",
+    "fields": {
+      "ticketDetails": "تفاصيل التذكرة",
+      "subject": "العنوان",
+      "description": "الوصف",
+      "priority": "الأولوية",
+      "resolvedAt": "تاريخ الحل",
+      "notResolvedYet": "لم يتم حلها بعد",
+      "adminNotes": "ملاحظات المشرف",
+      "adminNotesPlaceholder": "أضف ملاحظات داخلية حول هذه التذكرة..."
+    },
+    "requester": {
+      "title": "صاحب الطلب",
+      "userId": "معرّف المستخدم: {{id}}"
+    },
+    "attachments": {
+      "title": "المرفقات",
+      "empty": "لا توجد مرفقات",
+      "alt": "مرفق {{index}}"
+    },
+    "statusSelectPlaceholder": "الحالة",
+    "updateModal": {
+      "title": "تحديث التذكرة",
+      "description": "هل أنت متأكد أنك تريد تحديث تذكرة الدعم هذه؟",
+      "confirmLabel": "تحديث التذكرة",
+      "cancelLabel": "إلغاء"
+    },
+    "changes": {
+      "fieldStatus": "الحالة",
+      "fieldAdminNotes": "ملاحظات المشرف",
+      "hasNotes": "تحتوي على ملاحظات",
+      "empty": "فارغ"
+    },
+    "update": {
+      "failedTitle": "فشل تحديث التذكرة",
+      "failedGeneric": "حدث خطأ أثناء تحديث التذكرة",
+      "success": "تم تحديث التذكرة بنجاح!"
+    },
+    "back": "رجوع",
+    "backToTickets": "الرجوع إلى التذاكر",
+    "retry": "إعادة المحاولة",
+    "saveChanges": "حفظ التغييرات"
+  }
+}
+

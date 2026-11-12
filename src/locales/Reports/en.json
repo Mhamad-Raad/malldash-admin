@@ -1,0 +1,88 @@
+{
+  "title": "Reports",
+  "description": "Generate and download comprehensive reports for your mall operations",
+  "categories": {
+    "all": "All Reports",
+    "financial": "Financial",
+    "operations": "Operations",
+    "usersVendors": "Users & Vendors",
+    "buildings": "Buildings"
+  },
+  "reports": {
+    "monthlyRevenue": {
+      "title": "Monthly Revenue Report",
+      "description": "Comprehensive breakdown of revenue by vendor, category, and building"
+    },
+    "vendorPerformance": {
+      "title": "Vendor Performance Report",
+      "description": "Sales performance, ratings, and compliance metrics for all vendors"
+    },
+    "buildingOccupancy": {
+      "title": "Building Occupancy Report",
+      "description": "Occupancy rates, vacant units, and rental income by building"
+    },
+    "userActivity": {
+      "title": "User Activity Report",
+      "description": "User registrations, active users, and engagement metrics"
+    },
+    "orderAnalytics": {
+      "title": "Order Analytics Report",
+      "description": "Order volumes, average order value, and fulfillment metrics"
+    },
+    "maintenance": {
+      "title": "Maintenance & Operations Report",
+      "description": "Maintenance requests, response times, and facility status"
+    },
+    "financialSummary": {
+      "title": "Financial Summary Report",
+      "description": "Income statements, expense tracking, and profit margins"
+    },
+    "vendorCompliance": {
+      "title": "Vendor Compliance Report",
+      "description": "License renewals, health inspections, and regulatory compliance"
+    }
+  },
+  "stats": {
+    "totalReports": "Total Reports",
+    "generatedToday": "Generated Today",
+    "scheduled": "Scheduled",
+    "totalSize": "Total Size"
+  },
+  "frequency": {
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly"
+  },
+  "status": {
+    "ready": "Ready",
+    "generating": "Generating",
+    "active": "Active",
+    "paused": "Paused"
+  },
+  "actions": {
+    "generate": "Generate",
+    "download": "Download",
+    "manageSchedule": "Manage Schedule"
+  },
+  "filters": {
+    "selectPeriod": "Select period",
+    "today": "Today",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "thisQuarter": "This Quarter",
+    "thisYear": "This Year",
+    "customRange": "Custom Range"
+  },
+  "scheduled": {
+    "title": "Scheduled Reports",
+    "description": "Automatically generated reports sent to your email",
+    "weeklyOperations": "Weekly Operations Summary",
+    "monthlyFinancial": "Monthly Financial Report",
+    "dailySales": "Daily Sales Report",
+    "everyMonday": "Every Monday at 9:00 AM",
+    "firstOfMonth": "1st of every month at 8:00 AM",
+    "everyDay": "Every day at 6:00 PM"
+  },
+  "lastGenerated": "Last generated: {{time}}",
+  "trendFromLastMonth": "{{trend}} from last month"
+}

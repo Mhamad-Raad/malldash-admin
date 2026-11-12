@@ -1,0 +1,106 @@
+{
+  "title": "بەڕێوەبردنی باڵەخانەکان",
+  "subtitle": "بەڕێوەبردنی باڵەخانەکان، نهۆمەکان و شوقەکان",
+  "addBuilding": "زیادکردنی باڵەخانە",
+  "filterBuildings": "فلتەرکردنی باڵەخانەکان",
+  "searchPlaceholder": "گەڕان بەدوای باڵەخانەکان...",
+  "tableHeaders": {
+    "buildingName": "ناوی باڵەخانە",
+    "totalFloors": "کۆی نهۆمەکان",
+    "totalApartments": "کۆی شوقەکان",
+    "occupancyRate": "ڕێژەی ئیشغال",
+    "actions": "کردارەکان"
+  },
+  "emptyState": {
+    "title": "هیچ باڵەخانەیەک نەدۆزرایەوە",
+    "description": "لە هەموو شوێنێک گەڕاین بەڵام نەمانتوانی هیچ باڵەخانەیەک بدۆزینەوە کە لەگەڵ پێوەرەکانت بگونجێت. هەوڵبدە فلتەرەکان یان زاراوەکانی گەڕان بگۆڕیت.",
+    "createButton": "دروستکردنی باڵەخانە",
+    "suggestions": {
+      "differentSearch": "گەڕانێکی جیاواز تاقی بکەوە",
+      "clearFilters": "سڕینەوەی فلتەرەکان",
+      "checkSpelling": "پشکنینی ڕێنووس"
+    }
+  },
+  "actions": {
+    "view": "بینین",
+    "edit": "دەستکاریکردن",
+    "delete": "سڕینەوە"
+  },
+  "modal": {
+    "title": "دروستکردنی باڵەخانەی نوێ",
+    "description": "ناوی باڵەخانەکە بنووسە کە دەتەوێت دروستی بکەیت.",
+    "buildingNameLabel": "ناوی باڵەخانە",
+    "buildingNamePlaceholder": "ناوی باڵەخانە بنووسە...",
+    "cancel": "هەڵوەشاندنەوە",
+    "createButton": "دروستکردنی باڵەخانە",
+    "creating": "دروست دەکرێت...",
+    "errorCreating": "شکستی هێنا لە دروستکردنی باڵەخانە."
+  },
+  "detail": {
+    "backToBuildings": "گەڕانەوە بۆ باڵەخانەکان",
+    "nameRequired": "ناو پێویستە",
+    "nameMustBeChanged": "ناو دەبێت بگۆڕدرێت",
+    "confirmNameChange": "دڵنیابوونەوەی گۆڕینی ناو",
+    "nameUpdated": "ناوی باڵەخانە نوێکرایەوە.",
+    "confirmNameChangeTitle": "دڵنیابوونەوەی گۆڕینی ناو",
+    "confirmNameChangeDescription": "دڵنیایت کە دەتەوێت ناوی باڵەخانە بگۆڕیت؟",
+    "confirmNameChangeWarning": "تکایە هەموو وردەکارییەکان بپشکنە پێش دڵنیابوونەوە.",
+    "fieldBuildingName": "ناوی باڵەخانە",
+    "confirm": "دڵنیابوونەوە",
+    "actionsLabel": "کردارەکان",
+    "editBuildingName": "دەستکاریکردنی ناوی باڵەخانە",
+    "deleteBuilding": "سڕینەوەی باڵەخانە",
+    "notFound": "باڵەخانە نەدۆزرایەوە",
+    "notFoundDescription": "ئەو باڵەخانەیەی بەدوایدا دەگەڕێیت بوونی نییە.",
+    "summary": {
+      "occupied": "داگیرکراو",
+      "vacant": "بەتاڵ",
+      "totalApartments": "کۆی شوقەکان",
+      "floors": "نهۆمەکان"
+    },
+    "floors": {
+      "title": "نهۆمەکان و شوقەکان",
+      "totalFloors": "نهۆم",
+      "totalFloorsPlural": "نهۆم",
+      "total": "کۆی گشتی",
+      "addFloor": "زیادکردنی نهۆم",
+      "floor": "نهۆم",
+      "unit": "یەکە",
+      "unitsPlural": "یەکە",
+      "addApartment": "زیادکردنی شوقە",
+      "addFloorTitle": "زیادکردنی نهۆم",
+      "addFloorDescription": "دڵنیایت کە دەتەوێت نهۆمێکی نوێ زیاد بکەیت بۆ ئەم باڵەخانەیە؟",
+      "addFloorConfirm": "زیادکردنی نهۆم",
+      "deleteFloorTitle": "سڕینەوەی نهۆم",
+      "deleteFloorDescription": "دڵنیایت کە دەتەوێت نهۆمی {{floorNumber}} بسڕیتەوە؟",
+      "deleteFloorWarning": "ئاگاداری! ئەمە نهۆمەکە و هەموو شوقەکانی بە هەمیشەیی لادەدات.",
+      "deleteFloorConfirm": "سڕینەوە",
+      "floorNumberField": "ژمارەی نهۆم",
+      "willBeDeleted": "دەسڕدرێتەوە",
+      "failedToDeleteFloor": "شکستی هێنا لە سڕینەوەی نهۆم."
+    },
+    "apartment": {
+      "occupied": "داگیرکراو",
+      "vacant": "بەتاڵ",
+      "noResidentAssigned": "هیچ نیشتەجێیەک دیاری نەکراوە",
+      "editApartment": "دەستکاریکردنی شوقە",
+      "manageOccupants": "بەڕێوەبردنی دانیشتوانی شوقە. زیادکردن یان دەستکاریکردنی زانیاری دانیشتوان.",
+      "apartmentNameLabel": "ناوی شوقە",
+      "apartmentNamePlaceholder": "ناوی شوقە بنووسە",
+      "searchUserPlaceholder": "گەڕان بە دوای بەکارهێنەر بە ناو، ئیمەیڵ، یان ژمارە",
+      "occupantLabel": "دانیشتوان",
+      "noOccupantsAssigned": "هیچ دانیشتوانێک دیاری نەکراوە",
+      "cancel": "هەڵوەشاندنەوە",
+      "deleteApartment": "سڕینەوەی شوقە",
+      "saveChanges": "پاشەکەوتکردنی گۆڕانکارییەکان"
+    },
+    "addApartmentModal": {
+      "title": "دروستکردنی شوقەیەکی نوێ بۆ نهۆمی {{floorNumber}}",
+      "apartmentNameLabel": "ناوی شوقە",
+      "apartmentNamePlaceholder": "ناوی شوقە",
+      "apartmentNameRequired": "ناوی شوقە پێویستە.",
+      "cancel": "هەڵوەشاندنەوە",
+      "addApartment": "زیادکردنی شوقە"
+    }
+  }
+}

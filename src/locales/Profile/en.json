@@ -1,0 +1,36 @@
+{
+  "title": "Profile",
+  "personalInfo": {
+    "title": "Personal Information",
+    "description": "Update your personal details here"
+  },
+  "fields": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number"
+  },
+  "placeholders": {
+    "firstName": "Enter your first name",
+    "lastName": "Enter your last name",
+    "email": "your.email@example.com",
+    "phone": "Enter your phone number"
+  },
+  "labels": {
+    "email": "Email",
+    "phone": "Phone",
+    "role": "Role"
+  },
+  "messages": {
+    "notSet": "Not set",
+    "emailCannotChange": "Email address cannot be changed",
+    "newPhotoSelected": "New photo selected",
+    "profileUpdated": "Profile updated successfully",
+    "updateFailed": "Failed to update profile"
+  },
+  "actions": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "saving": "Saving..."
+  }
+}

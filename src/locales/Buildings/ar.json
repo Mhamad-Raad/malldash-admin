@@ -1,0 +1,106 @@
+{
+  "title": "إدارة المباني",
+  "subtitle": "إدارة المباني والطوابق والشقق",
+  "addBuilding": "إضافة مبنى",
+  "filterBuildings": "تصفية المباني",
+  "searchPlaceholder": "البحث عن المباني...",
+  "tableHeaders": {
+    "buildingName": "اسم المبنى",
+    "totalFloors": "إجمالي الطوابق",
+    "totalApartments": "إجمالي الشقق",
+    "occupancyRate": "نسبة الإشغال",
+    "actions": "الإجراءات"
+  },
+  "emptyState": {
+    "title": "لم يتم العثور على مباني",
+    "description": "بحثنا في كل مكان ولكن لم نتمكن من العثور على أي مباني تطابق معاييرك. حاول ضبط الفلاتر أو مصطلحات البحث.",
+    "createButton": "إنشاء مبنى",
+    "suggestions": {
+      "differentSearch": "جرب بحثاً مختلفاً",
+      "clearFilters": "مسح الفلاتر",
+      "checkSpelling": "تحقق من الإملاء"
+    }
+  },
+  "actions": {
+    "view": "عرض",
+    "edit": "تعديل",
+    "delete": "حذف"
+  },
+  "modal": {
+    "title": "إنشاء مبنى جديد",
+    "description": "أدخل اسم المبنى الذي تريد إنشاءه.",
+    "buildingNameLabel": "اسم المبنى",
+    "buildingNamePlaceholder": "أدخل اسم المبنى...",
+    "cancel": "إلغاء",
+    "createButton": "إنشاء مبنى",
+    "creating": "جارٍ الإنشاء...",
+    "errorCreating": "فشل في إنشاء المبنى."
+  },
+  "detail": {
+    "backToBuildings": "العودة إلى المباني",
+    "nameRequired": "الاسم مطلوب",
+    "nameMustBeChanged": "يجب تغيير الاسم",
+    "confirmNameChange": "تأكيد تغيير الاسم",
+    "nameUpdated": "تم تحديث اسم المبنى.",
+    "confirmNameChangeTitle": "تأكيد تغيير الاسم",
+    "confirmNameChangeDescription": "هل أنت متأكد من أنك تريد تغيير اسم المبنى؟",
+    "confirmNameChangeWarning": "يرجى التحقق من جميع التفاصيل قبل التأكيد.",
+    "fieldBuildingName": "اسم المبنى",
+    "confirm": "تأكيد",
+    "actionsLabel": "الإجراءات",
+    "editBuildingName": "تعديل اسم المبنى",
+    "deleteBuilding": "حذف المبنى",
+    "notFound": "المبنى غير موجود",
+    "notFoundDescription": "المبنى الذي تبحث عنه غير موجود.",
+    "summary": {
+      "occupied": "مشغول",
+      "vacant": "شاغر",
+      "totalApartments": "إجمالي الشقق",
+      "floors": "الطوابق"
+    },
+    "floors": {
+      "title": "الطوابق والشقق",
+      "totalFloors": "طابق",
+      "totalFloorsPlural": "طوابق",
+      "total": "إجمالي",
+      "addFloor": "إضافة طابق",
+      "floor": "طابق",
+      "unit": "وحدة",
+      "unitsPlural": "وحدات",
+      "addApartment": "إضافة شقة",
+      "addFloorTitle": "إضافة طابق",
+      "addFloorDescription": "هل أنت متأكد من أنك تريد إضافة طابق جديد إلى هذا المبنى؟",
+      "addFloorConfirm": "إضافة طابق",
+      "deleteFloorTitle": "حذف طابق",
+      "deleteFloorDescription": "هل أنت متأكد من أنك تريد حذف الطابق {{floorNumber}}؟",
+      "deleteFloorWarning": "تحذير! سيؤدي هذا إلى إزالة الطابق وجميع شققه بشكل دائم.",
+      "deleteFloorConfirm": "حذف",
+      "floorNumberField": "رقم الطابق",
+      "willBeDeleted": "سيتم الحذف",
+      "failedToDeleteFloor": "فشل في حذف الطابق."
+    },
+    "apartment": {
+      "occupied": "مشغول",
+      "vacant": "شاغر",
+      "noResidentAssigned": "لا يوجد مقيم محدد",
+      "editApartment": "تعديل الشقة",
+      "manageOccupants": "إدارة سكان الشقة. إضافة أو تعديل معلومات الساكن.",
+      "apartmentNameLabel": "اسم الشقة",
+      "apartmentNamePlaceholder": "أدخل اسم الشقة",
+      "searchUserPlaceholder": "البحث عن المستخدم بالاسم أو البريد الإلكتروني أو الرقم",
+      "occupantLabel": "الساكن",
+      "noOccupantsAssigned": "لا يوجد سكان محددين",
+      "cancel": "إلغاء",
+      "deleteApartment": "حذف الشقة",
+      "saveChanges": "حفظ التغييرات"
+    },
+    "addApartmentModal": {
+      "title": "إنشاء شقة جديدة للطابق {{floorNumber}}",
+      "apartmentNameLabel": "اسم الشقة",
+      "apartmentNamePlaceholder": "اسم الشقة",
+      "apartmentNameRequired": "اسم الشقة مطلوب.",
+      "cancel": "إلغاء",
+      "addApartment": "إضافة شقة"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Dashboard",
+  "subtitle": "Welcome back! Here's an overview of your system.",
+  "lastUpdated": "Last updated",
+  "cards": {
+    "orders": "Orders",
+    "users": "Users",
+    "vendors": "Vendors",
+    "buildings": "Buildings",
+    "apartments": "Apartments",
+    "products": "Products",
+    "requests": "Requests",
+    "downThisMonth": "Down {{percent}} this Month",
+    "upThisMonth": "Up {{percent}} this Month",
+    "applicationWide": "Application Wide",
+    "webBasedVendors": "Web Based Vendors",
+    "customerRequests": "Customer Requests",
+    "activeVendors": "Active vendors in the system",
+    "managedBuildings": "Managed buildings",
+    "listedProducts": "Listed products"
+  },
+  "sections": {
+    "overview": "Overview",
+    "recentOrders": "Recent Orders",
+    "topSelling": "Top Selling",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "updates": "updates",
+    "noActivity": "No recent activity"
+  },
+  "status": {
+    "onGoing": "On Going",
+    "canceled": "Canceled",
+    "onTheWay": "On the Way",
+    "delivered": "Delivered"
+  },
+  "occupancy": {
+    "title": "Building Occupancy",
+    "description": "Current occupancy status across all buildings",
+    "occupied": "Occupied",
+    "vacant": "Vacant",
+    "totalApartments": "Total Apartments",
+    "totalBuildings": "Total Buildings",
+    "byBuilding": "By Building"
+  },
+  "vendors": {
+    "distribution": "Vendor Distribution",
+    "distributionDesc": "Breakdown by vendor type",
+    "total": "Total Vendors",
+    "noData": "No vendor data available",
+    "topVendors": "Top Vendors",
+    "topDesc": "Vendors with the most orders",
+    "noVendors": "No vendors found"
+  },
+  "actions": {
+    "refresh": "Refresh",
+    "viewAll": "View All",
+    "showAll": "Show all",
+    "showLess": "Show less",
+    "addUser": "Add User",
+    "addVendor": "Add Vendor",
+    "addBuilding": "Add Building",
+    "addProduct": "Add Product",
+    "settings": "Settings"
+  }
+}

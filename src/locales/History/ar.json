@@ -1,0 +1,68 @@
+{
+  "page": {
+    "title": "سجل التدقيق",
+    "subtitle": "عرض سجلات وتاريخ تدقيق النظام."
+  },
+  "filters": {
+    "title": "عوامل التصفية",
+    "searchPlaceholder": "البحث باسم الكيان...",
+    "from": "من:",
+    "to": "إلى:",
+    "activeBadge": "تمت التصفية",
+    "clearFilters": "مسح جميع عوامل التصفية",
+    "clearSearch": "مسح البحث"
+  },
+  "table": {
+    "headers": {
+      "user": "المستخدم",
+      "action": "الإجراء",
+      "target": "الهدف",
+      "when": "الوقت"
+    },
+    "emptyTitle": "لا يوجد سجل تدقيق",
+    "emptySubtitle": "ستظهر الأنشطة هنا بعد تنفيذ الإجراءات.",
+    "error": "خطأ: {{message}}",
+    "relative": {
+      "justNow": "الآن",
+      "minutes": "منذ {{count}} دقيقة",
+      "hours": "منذ {{count}} ساعة",
+      "days": "منذ {{count}} يومًا"
+    },
+    "actions": {
+      "created": "تم الإنشاء",
+      "updated": "تم التحديث",
+      "deleted": "تم الحذف",
+      "viewed": "تم العرض",
+      "unknown": "غير معروف"
+    }
+  },
+  "details": {
+    "title": "تفاصيل سجل التدقيق",
+    "errorLoading": "حدث خطأ أثناء تحميل تفاصيل التدقيق: {{message}}",
+    "notFound": "لم يتم العثور على سجل التدقيق.",
+    "headerSubtitle": "سجل التدقيق رقم {{id}}",
+    "createdValues": "القيم التي تم إنشاؤها",
+    "deletedValues": "القيم التي تم حذفها",
+    "dataChanges": "تغييرات البيانات",
+    "fieldsCount": "{{count}} حقل",
+    "fieldsCountPlural": "{{count}} حقول",
+    "field": "الحقل",
+    "previousValue": "القيمة السابقة",
+    "newValue": "القيمة الجديدة",
+    "noChangesTitle": "لا توجد تغييرات في البيانات",
+    "noChangesSubtitle": "هذا الإجراء لم يعدّل أي حقول"
+  },
+  "sidebar": {
+    "performedBy": "تم التنفيذ بواسطة",
+    "actionDetails": "تفاصيل الإجراء",
+    "action": "الإجراء",
+    "entity": "الكيان",
+    "entityId": "معرّف الكيان",
+    "timestamp": "الطابع الزمني",
+    "technicalDetails": "تفاصيل تقنية",
+    "ipAddress": "عنوان IP",
+    "userAgent": "وكيل المستخدم",
+    "viewEntity": "عرض {{entityName}}"
+  }
+}
+

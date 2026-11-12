@@ -1,0 +1,134 @@
+{
+  "title": "بەرهەمەکان",
+  "subtitle": "بەڕێوەبردنی کۆگای بەرهەمەکانت",
+  "emptyState": {
+    "title": "هیچ بەرهەمێک نەدۆزرایەوە",
+    "description": "لە هەموو شوێنێک گەڕاین بەڵام نەمانتوانی هیچ بەرهەمێک بدۆزینەوە کە لەگەڵ پێوەرەکانت بگونجێت. هەوڵبدە فلتەرەکان یان زاراوەکانی گەڕان بگۆڕیت.",
+    "action": "زیادکردنی بەرهەم",
+    "suggestions": {
+      "differentSearch": "گەڕانێکی جیاواز تاقی بکەوە",
+      "clearFilters": "سڕینەوەی فلتەرەکان",
+      "checkSpelling": "پشکنینی ڕێنووس"
+    }
+  },
+  "filters": {
+    "title": "پاڵاوتنی بەرهەمەکان",
+    "search": "گەڕان بۆ بەرهەمەکان...",
+    "vendor": "هەڵبژاردنی فرۆشیار",
+    "category": "هەڵبژاردنی جۆر",
+    "stockStatus": "دۆخی کۆگا",
+    "inStock": "لە کۆگادایە",
+    "outOfStock": "لە کۆگا نییە",
+    "allStatus": "هەموو دۆخەکان",
+    "filtered": "پاڵێوراو",
+    "clearSearch": "سڕینەوەی گەڕان",
+    "clearAll": "سڕینەوەی هەموو فلتەرەکان"
+  },
+  "table": {
+    "product": "بەرهەم",
+    "price": "نرخ",
+    "category": "جۆر",
+    "vendor": "فرۆشیار",
+    "stock": "کۆگا",
+    "inStock": "لە کۆگادایە",
+    "outOfStock": "لە کۆگا نییە",
+    "id": "ناسنامە"
+  },
+  "actions": {
+    "create": "زیادکردنی بەرهەم",
+    "edit": "دەستکاریکردن",
+    "delete": "سڕینەوە",
+    "view": "بینینی وردەکاریەکان"
+  },
+  "error": "هەڵە",
+  "productDetail": {
+    "header": {
+      "title": "وردەکاریەکانی بەرهەم",
+      "subtitle": "بینین و دەستکاریکردنی زانیاریەکانی بەرهەم",
+      "unsavedChanges": "• گۆڕانکاریەکانی پاشەکەوت نەکراو",
+      "deleteButton": "سڕینەوە"
+    },
+    "imageCard": {
+      "title": "زانیاریەکانی بەرهەم",
+      "description": "وردەکارییە سەرەتاییەکان و وێنەی بەرهەم",
+      "uploadImage": "کرتە بکە بۆ بارکردن",
+      "newImage": "نوێ:",
+      "productName": "ناوی بەرهەم",
+      "required": "*",
+      "productNamePlaceholder": "ناوی بەرهەم بنووسە",
+      "vendor": "فرۆشیار",
+      "productId": "ژمارەی بەرهەم",
+      "price": "نرخ",
+      "off": "داشکاندن",
+      "category": "جۆر",
+      "categoryPlaceholder": "جۆرێک هەڵبژێرە...",
+      "description": "وەسف",
+      "descriptionPlaceholder": "وەسفی بەرهەم..."
+    },
+    "pricingCard": {
+      "title": "نرخدانان",
+      "description": "دیاریکردنی نرخ و داشکاندنەکان",
+      "regularPrice": "نرخی ئاسایی",
+      "required": "*",
+      "pricePlaceholder": "0.00",
+      "discountPrice": "نرخی داشکاندن",
+      "discountBadge": "% داشکاندن",
+      "discountError": "نرخی داشکاندن دەبێ کەمتر بێت لە نرخی ئاسایی"
+    },
+    "statusCard": {
+      "title": "دۆخی بەرهەم",
+      "description": "بەڕێوەبردنی بەردەستبوون و ڕێکخستنەکانی بەرهەم",
+      "inStock": "لە کۆگادا",
+      "inStockDescription": "بەردەستە بۆ کڕین",
+      "soldByWeight": "بە کێش دەفرۆشرێت",
+      "soldByWeightDescription": "نرخ بۆ هەر یەکەی کێش"
+    },
+    "footer": {
+      "cancel": "هەڵوەشاندنەوە",
+      "saveChanges": "پاشەکەوتکردنی گۆڕانکارییەکان",
+      "saving": "پاشەکەوتکردن..."
+    },
+    "modals": {
+      "update": {
+        "title": "نوێکردنەوەی بەرهەم",
+        "description": "دڵنیایت لە نوێکردنەوەی ئەم بەرهەمە؟",
+        "confirmLabel": "نوێکردنەوە",
+        "cancelLabel": "هەڵوەشاندنەوە"
+      },
+      "delete": {
+        "title": "سڕینەوەی بەرهەم",
+        "description": "دڵنیایت لە سڕینەوەی ئەم بەرهەمە؟",
+        "warning": "ئاگاداری! ناتوانیت گەڕێتەوە لەم کردارە.",
+        "confirmLabel": "سڕینەوە",
+        "cancelLabel": "هەڵوەشاندنەوە"
+      }
+    },
+    "changeFields": {
+      "name": "ناو",
+      "description": "وەسف",
+      "price": "نرخ",
+      "discountPrice": "نرخی داشکاندن",
+      "inStock": "لە کۆگادا",
+      "weightable": "قابیلی کێشان",
+      "category": "جۆر",
+      "image": "وێنە",
+      "empty": "(بەتاڵ)",
+      "none": "هیچ",
+      "yes": "بەڵێ",
+      "no": "نەخێر",
+      "currentImage": "وێنەی ئێستا"
+    },
+    "errorCard": {
+      "title": "شکستی هێنا لە بارکردنی بەرهەم",
+      "backButton": "گەڕانەوە بۆ بەرهەمەکان"
+    },
+    "toasts": {
+      "requiredFields": "تکایە هەموو خانە پێویستەکان پڕبکەوە",
+      "updateSuccess": "بەرهەم بە سەرکەوتوویی نوێکرایەوە",
+      "updateError": "شکستی هێنا لە نوێکردنەوەی بەرهەم",
+      "deleteSuccess": "بەرهەم بە سەرکەوتوویی سڕایەوە",
+      "deleteError": "شکستی هێنا لە سڕینەوەی بەرهەم",
+      "loadError": "شکستی هێنا لە بارکردنی وردەکاریەکانی بەرهەم"
+    }
+  }
+}

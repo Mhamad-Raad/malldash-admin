@@ -1,0 +1,42 @@
+{
+  "title": "Orders",
+  "backToOrders": "Back to Orders",
+  "totalLabel": "Total:",
+  "searchPlaceholder": "Search orders...",
+  "filterVendorPlaceholder": "Filter by vendor...",
+  "filterStatusPlaceholder": "Filter by status",
+  "allStatuses": "All Statuses",
+  "headerTitle": "Orders",
+  "headerSubtitle": "Manage and track your customer orders",
+  "table": {
+    "orderNumber": "Order #",
+    "customer": "Customer",
+    "status": "Status",
+    "dateTime": "Date & Time",
+    "total": "Total",
+    "guestCustomer": "Guest Customer",
+    "itemsSingle": "{{count}} item",
+    "itemsPlural": "{{count}} items"
+  },
+  "detail": {
+    "customerInfo": "Customer Information",
+    "email": "Email",
+    "phone": "Phone",
+    "deliveryAddressSection": "Delivery Address",
+    "building": "Building",
+    "floor": "Floor",
+    "floorWithNumber": "Floor {{number}}",
+    "apartment": "Apartment",
+    "itemsSection": "Items ({{count}})",
+    "qtyPrice": "Qty: {{quantity}} × ${{price}}",
+    "summarySection": "Summary",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery Fee",
+    "totalAmount": "Total",
+    "notesSection": "Notes",
+    "activitySection": "Activity",
+    "orderCreated": "Order Created",
+    "orderCompleted": "Order Completed"
+  }
+}
+

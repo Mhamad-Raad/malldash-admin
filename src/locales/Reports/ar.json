@@ -1,0 +1,88 @@
+{
+  "title": "التقارير",
+  "description": "إنشاء وتنزيل تقارير شاملة لعمليات المول الخاص بك",
+  "categories": {
+    "all": "جميع التقارير",
+    "financial": "المالية",
+    "operations": "العمليات",
+    "usersVendors": "المستخدمون والبائعون",
+    "buildings": "المباني"
+  },
+  "reports": {
+    "monthlyRevenue": {
+      "title": "تقرير الإيرادات الشهرية",
+      "description": "تفصيل شامل للإيرادات حسب البائع والفئة والمبنى"
+    },
+    "vendorPerformance": {
+      "title": "تقرير أداء البائعين",
+      "description": "أداء المبيعات والتقييمات ومقاييس الامتثال لجميع البائعين"
+    },
+    "buildingOccupancy": {
+      "title": "تقرير إشغال المباني",
+      "description": "معدلات الإشغال والوحدات الشاغرة ودخل الإيجار حسب المبنى"
+    },
+    "userActivity": {
+      "title": "تقرير نشاط المستخدمين",
+      "description": "تسجيلات المستخدمين والمستخدمون النشطون ومقاييس المشاركة"
+    },
+    "orderAnalytics": {
+      "title": "تقرير تحليلات الطلبات",
+      "description": "أحجام الطلبات ومتوسط قيمة الطلب ومقاييس التنفيذ"
+    },
+    "maintenance": {
+      "title": "تقرير الصيانة والعمليات",
+      "description": "طلبات الصيانة وأوقات الاستجابة وحالة المنشآت"
+    },
+    "financialSummary": {
+      "title": "تقرير الملخص المالي",
+      "description": "بيانات الدخل وتتبع النفقات وهوامش الربح"
+    },
+    "vendorCompliance": {
+      "title": "تقرير امتثال البائعين",
+      "description": "تجديدات التراخيص والفحوصات الصحية والامتثال التنظيمي"
+    }
+  },
+  "stats": {
+    "totalReports": "إجمالي التقارير",
+    "generatedToday": "تم إنشاؤها اليوم",
+    "scheduled": "المجدولة",
+    "totalSize": "الحجم الإجمالي"
+  },
+  "frequency": {
+    "daily": "يومياً",
+    "weekly": "أسبوعياً",
+    "monthly": "شهرياً"
+  },
+  "status": {
+    "ready": "جاهز",
+    "generating": "جاري الإنشاء",
+    "active": "نشط",
+    "paused": "متوقف مؤقتاً"
+  },
+  "actions": {
+    "generate": "إنشاء",
+    "download": "تنزيل",
+    "manageSchedule": "إدارة الجدول"
+  },
+  "filters": {
+    "selectPeriod": "اختر الفترة",
+    "today": "اليوم",
+    "thisWeek": "هذا الأسبوع",
+    "thisMonth": "هذا الشهر",
+    "thisQuarter": "هذا الربع",
+    "thisYear": "هذا العام",
+    "customRange": "نطاق مخصص"
+  },
+  "scheduled": {
+    "title": "التقارير المجدولة",
+    "description": "التقارير التي يتم إنشاؤها تلقائياً وإرسالها إلى بريدك الإلكتروني",
+    "weeklyOperations": "ملخص العمليات الأسبوعي",
+    "monthlyFinancial": "التقرير المالي الشهري",
+    "dailySales": "تقرير المبيعات اليومي",
+    "everyMonday": "كل يوم اثنين الساعة 9:00 صباحاً",
+    "firstOfMonth": "الأول من كل شهر الساعة 8:00 صباحاً",
+    "everyDay": "كل يوم الساعة 6:00 مساءً"
+  },
+  "lastGenerated": "آخر إنشاء: {{time}}",
+  "trendFromLastMonth": "{{trend}} من الشهر الماضي"
+}

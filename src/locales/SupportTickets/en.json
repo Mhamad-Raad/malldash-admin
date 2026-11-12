@@ -1,0 +1,90 @@
+{
+  "page": {
+    "title": "Support Tickets",
+    "subtitle": "View and manage support tickets from residents and vendors."
+  },
+  "filters": {
+    "searchPlaceholder": "Search tickets...",
+    "statusPlaceholder": "Status",
+    "filterLabel": "Filter tickets",
+    "apply": "Filter",
+    "clear": "Clear"
+  },
+  "table": {
+    "headers": {
+      "ticket": "Ticket",
+      "subject": "Subject",
+      "user": "User",
+      "status": "Status",
+      "priority": "Priority",
+      "created": "Created"
+    },
+    "empty": "No support tickets found",
+    "error": "Error: {{message}}"
+  },
+  "status": {
+    "all": "All statuses",
+    "open": "Open",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "closed": "Closed",
+    "unknown": "Unknown"
+  },
+  "priority": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "urgent": "Urgent"
+  },
+  "detail": {
+    "invalidId": "Invalid ticket id",
+    "title": "Support Ticket",
+    "errorTitle": "Unable to load ticket",
+    "errorDescription": "Ticket not found or you do not have access.",
+    "ticketHeading": "Ticket #{{ticketNumber}}",
+    "createdAt": "Created at {{date}}",
+    "created": "Created {{date}}",
+    "fields": {
+      "ticketDetails": "Ticket details",
+      "subject": "Subject",
+      "description": "Description",
+      "priority": "Priority",
+      "resolvedAt": "Resolved at",
+      "notResolvedYet": "Not resolved yet",
+      "adminNotes": "Admin notes",
+      "adminNotesPlaceholder": "Add internal notes about this ticket..."
+    },
+    "requester": {
+      "title": "Requester",
+      "userId": "User ID: {{id}}"
+    },
+    "attachments": {
+      "title": "Attachments",
+      "empty": "No attachments",
+      "alt": "Attachment {{index}}"
+    },
+    "statusSelectPlaceholder": "Status",
+    "updateModal": {
+      "title": "Update ticket",
+      "description": "Are you sure you want to update this support ticket?",
+      "confirmLabel": "Update ticket",
+      "cancelLabel": "Cancel"
+    },
+    "changes": {
+      "fieldStatus": "Status",
+      "fieldAdminNotes": "Admin notes",
+      "hasNotes": "Has notes",
+      "empty": "Empty"
+    },
+    "update": {
+      "failedTitle": "Failed to update ticket",
+      "failedGeneric": "An error occurred while updating the ticket",
+      "success": "Ticket updated successfully!"
+    },
+    "back": "Back",
+    "backToTickets": "Back to tickets",
+    "retry": "Retry",
+    "saveChanges": "Save changes"
+  }
+}
+

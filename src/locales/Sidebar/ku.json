@@ -1,0 +1,23 @@
+{
+  "appName": "ئاکۆ مۆڵ",
+  "appSubtitle": "داشبۆرد",
+  "mainMenu": "لیستی سەرەکی",
+  "management": "بەڕێوەبردن",
+  "system": "سیستەم",
+  "dashboard": "داشبۆرد",
+  "users": "بەکارهێنەران",
+  "buildings": "باڵەخانەکان",
+  "vendors": "فرۆشیارەکان",
+  "products": "بەرهەمەکان",
+  "orders": "داواکاریەکان",
+  "supportTickets": "تیکەتی پاڵپشتی",
+  "analytics": "شیکاری",
+  "reports": "ڕاپۆرتەکان",
+  "settings": "ڕێکخستنەکان",
+  "accountMenu": "هەژمار",
+  "manageProfile": "بەڕێوەبردنی پرۆفایلەکەت",
+  "logout": "چوونە دەرەوە",
+  "profile": "پرۆفایل",
+  "themes": "تێمەکان",
+  "History": "مێژوو"
+}

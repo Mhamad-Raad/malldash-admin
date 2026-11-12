@@ -1,0 +1,90 @@
+{
+  "page": {
+    "title": "تیکێتەکانی پاڵپشتی",
+    "subtitle": "بینینی و بەڕێوەبردنی تیکێتەکانی پاڵپشتی لە لایەن نیشتەجێبووان و فرۆشیارەوە."
+  },
+  "filters": {
+    "searchPlaceholder": "گەڕان لە ناو تیکێتەکان...",
+    "statusPlaceholder": "دۆخ",
+    "filterLabel": "فلتەرکردنی تیکێتەکان",
+    "apply": "فلتەرکردن",
+    "clear": "سڕینەوە"
+  },
+  "table": {
+    "headers": {
+      "ticket": "تیکەت",
+      "subject": "سەردێڕ",
+      "user": "بەکارهێنەر",
+      "status": "دۆخ",
+      "priority": "پێشگری",
+      "created": "کاتی دروستکردن"
+    },
+    "empty": "هیچ تیکەتی پاڵپشتی نەدەستنەوە",
+    "error": "هەڵە: {{message}}"
+  },
+  "status": {
+    "all": "هەموو دۆخەکان",
+    "open": "کراوە",
+    "inProgress": "لە جێبەجێکرددایە",
+    "resolved": "چارەسەرکرا",
+    "closed": "داخرا",
+    "unknown": "نەزانراو"
+  },
+  "priority": {
+    "low": "نزم",
+    "medium": "ناوەند",
+    "high": "بەرز",
+    "urgent": "فوری"
+  },
+  "detail": {
+    "invalidId": "ناسنامەی تیکەت دروست نییە",
+    "title": "تیکەتی پاڵپشتی",
+    "errorTitle": "نەکرا لێدانی تیکەت",
+    "errorDescription": "تیکەت نەدۆزرایەوە یان دەسەڵاتی لێت نییە.",
+    "ticketHeading": "تیکەت #{{ticketNumber}}",
+    "createdAt": "دروستکراوە لە {{date}}",
+    "created": "دروستکراوە {{date}}",
+    "fields": {
+      "ticketDetails": "وردەکاریی تیکەت",
+      "subject": "سەردێڕ",
+      "description": "ڕوناشت",
+      "priority": "پێشگری",
+      "resolvedAt": "کاتی چارەسەرکردن",
+      "notResolvedYet": "هێشتا چارەسەر نەکراوە",
+      "adminNotes": "تێبینیی بەڕێوەبەر",
+      "adminNotesPlaceholder": "تێبینی ناوخۆیی دەربارەی ئەم تیکەتە دابنێ..."
+    },
+    "requester": {
+      "title": "داواکار",
+      "userId": "ناسنامەی بەکارهێنەر: {{id}}"
+    },
+    "attachments": {
+      "title": "هاوپێچەکان",
+      "empty": "هیچ هاوپێچێک نییە",
+      "alt": "هاوپێچ {{index}}"
+    },
+    "statusSelectPlaceholder": "دۆخ",
+    "updateModal": {
+      "title": "نوێکردنەوەی تیکەت",
+      "description": "دڵنیایت دەتەوێت ئەم تیکەتی پاڵپشتیە نوێ بکەیتەوە؟",
+      "confirmLabel": "نوێکردنەوەی تیکەت",
+      "cancelLabel": "هەڵوەشاندنەوە"
+    },
+    "changes": {
+      "fieldStatus": "دۆخ",
+      "fieldAdminNotes": "تێبینیی بەڕێوەبەر",
+      "hasNotes": "هەیە تێبینی",
+      "empty": "بەتاڵ"
+    },
+    "update": {
+      "failedTitle": "نوێکردنەوەی تیکەت شکستی هێنا",
+      "failedGeneric": "هەڵەیەک ڕوویدا لە کاتی نوێکردنەوەی تیکەت",
+      "success": "تیکەت بە سەرکەوتوویی نوێکرایەوە!"
+    },
+    "back": "گەڕانەوە",
+    "backToTickets": "گەڕانەوە بۆ تیکێتەکان",
+    "retry": "هەوڵدانەوە",
+    "saveChanges": "پاشەکەوتکردنی گۆرانکارییەکان"
+  }
+}
+

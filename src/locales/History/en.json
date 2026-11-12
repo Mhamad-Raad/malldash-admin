@@ -1,0 +1,68 @@
+{
+  "page": {
+    "title": "Audit History",
+    "subtitle": "View system audit logs and history."
+  },
+  "filters": {
+    "title": "Filters",
+    "searchPlaceholder": "Search by entity name...",
+    "from": "From:",
+    "to": "To:",
+    "activeBadge": "Filtered",
+    "clearFilters": "Clear all filters",
+    "clearSearch": "Clear search"
+  },
+  "table": {
+    "headers": {
+      "user": "User",
+      "action": "Action",
+      "target": "Target",
+      "when": "When"
+    },
+    "emptyTitle": "No audit history found",
+    "emptySubtitle": "Activity will appear here once actions are performed.",
+    "error": "Error: {{message}}",
+    "relative": {
+      "justNow": "Just now",
+      "minutes": "{{count}}m ago",
+      "hours": "{{count}}h ago",
+      "days": "{{count}}d ago"
+    },
+    "actions": {
+      "created": "Created",
+      "updated": "Updated",
+      "deleted": "Deleted",
+      "viewed": "Viewed",
+      "unknown": "Unknown"
+    }
+  },
+  "details": {
+    "title": "Audit Log Details",
+    "errorLoading": "Error loading audit details: {{message}}",
+    "notFound": "Audit log not found.",
+    "headerSubtitle": "Audit Log #{{id}}",
+    "createdValues": "Created Values",
+    "deletedValues": "Deleted Values",
+    "dataChanges": "Data Changes",
+    "fieldsCount": "{{count}} field",
+    "fieldsCountPlural": "{{count}} fields",
+    "field": "Field",
+    "previousValue": "Previous Value",
+    "newValue": "New Value",
+    "noChangesTitle": "No data changes recorded",
+    "noChangesSubtitle": "This action did not modify any fields"
+  },
+  "sidebar": {
+    "performedBy": "Performed By",
+    "actionDetails": "Action Details",
+    "action": "Action",
+    "entity": "Entity",
+    "entityId": "Entity ID",
+    "timestamp": "Timestamp",
+    "technicalDetails": "Technical Details",
+    "ipAddress": "IP Address",
+    "userAgent": "User Agent",
+    "viewEntity": "View {{entityName}}"
+  }
+}
+

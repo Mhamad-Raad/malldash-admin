@@ -1,0 +1,42 @@
+{
+  "title": "الطلبات",
+  "backToOrders": "العودة إلى الطلبات",
+  "totalLabel": "الإجمالي:",
+  "searchPlaceholder": "ابحث في الطلبات...",
+  "filterVendorPlaceholder": "تصفية حسب البائع...",
+  "filterStatusPlaceholder": "تصفية حسب الحالة",
+  "allStatuses": "كل الحالات",
+  "headerTitle": "الطلبات",
+  "headerSubtitle": "إدارة وتتبع طلبات العملاء",
+  "table": {
+    "orderNumber": "رقم الطلب",
+    "customer": "العميل",
+    "status": "الحالة",
+    "dateTime": "التاريخ والوقت",
+    "total": "الإجمالي",
+    "guestCustomer": "عميل زائر",
+    "itemsSingle": "{{count}} منتج",
+    "itemsPlural": "{{count}} منتجات"
+  },
+  "detail": {
+    "customerInfo": "معلومات العميل",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "deliveryAddressSection": "عنوان التسليم",
+    "building": "المبنى",
+    "floor": "الطابق",
+    "floorWithNumber": "الطابق {{number}}",
+    "apartment": "الشقة",
+    "itemsSection": "العناصر ({{count}})",
+    "qtyPrice": "الكمية: {{quantity}} × ${{price}}",
+    "summarySection": "الملخص",
+    "subtotal": "الإجمالي الفرعي",
+    "deliveryFee": "رسوم التوصيل",
+    "totalAmount": "الإجمالي",
+    "notesSection": "ملاحظات",
+    "activitySection": "النشاط",
+    "orderCreated": "تم إنشاء الطلب",
+    "orderCompleted": "اكتمل الطلب"
+  }
+}
+

@@ -1,0 +1,66 @@
+{
+  "title": "لوحة التحكم",
+  "subtitle": "مرحباً بعودتك! إليك نظرة عامة على نظامك.",
+  "lastUpdated": "آخر تحديث",
+  "cards": {
+    "orders": "الطلبات",
+    "users": "المستخدمون",
+    "vendors": "البائعون",
+    "buildings": "المباني",
+    "apartments": "الشقق",
+    "products": "المنتجات",
+    "requests": "الطلبات",
+    "downThisMonth": "انخفاض {{percent}} هذا الشهر",
+    "upThisMonth": "ارتفاع {{percent}} هذا الشهر",
+    "applicationWide": "على مستوى التطبيق",
+    "webBasedVendors": "بائعون على الويب",
+    "customerRequests": "طلبات العملاء",
+    "activeVendors": "البائعون النشطون في النظام",
+    "managedBuildings": "المباني المُدارة",
+    "listedProducts": "المنتجات المدرجة"
+  },
+  "sections": {
+    "overview": "نظرة عامة",
+    "recentOrders": "الطلبات الأخيرة",
+    "topSelling": "الأكثر مبيعاً",
+    "recentActivity": "النشاط الأخير",
+    "quickActions": "إجراءات سريعة",
+    "updates": "تحديثات",
+    "noActivity": "لا يوجد نشاط حديث"
+  },
+  "status": {
+    "onGoing": "جاري التنفيذ",
+    "canceled": "ملغى",
+    "onTheWay": "في الطريق",
+    "delivered": "تم التسليم"
+  },
+  "occupancy": {
+    "title": "إشغال المباني",
+    "description": "حالة الإشغال الحالية عبر جميع المباني",
+    "occupied": "مشغول",
+    "vacant": "شاغر",
+    "totalApartments": "إجمالي الشقق",
+    "totalBuildings": "إجمالي المباني",
+    "byBuilding": "حسب المبنى"
+  },
+  "vendors": {
+    "distribution": "توزيع البائعين",
+    "distributionDesc": "التوزيع حسب نوع البائع",
+    "total": "إجمالي البائعين",
+    "noData": "لا تتوفر بيانات البائعين",
+    "topVendors": "أفضل البائعين",
+    "topDesc": "البائعون الذين لديهم أكثر الطلبات",
+    "noVendors": "لم يتم العثور على بائعين"
+  },
+  "actions": {
+    "refresh": "تحديث",
+    "viewAll": "عرض الكل",
+    "showAll": "عرض الكل",
+    "showLess": "عرض أقل",
+    "addUser": "إضافة مستخدم",
+    "addVendor": "إضافة بائع",
+    "addBuilding": "إضافة مبنى",
+    "addProduct": "إضافة منتج",
+    "settings": "الإعدادات"
+  }
+}

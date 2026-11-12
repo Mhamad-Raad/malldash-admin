@@ -1,0 +1,15 @@
+{
+  "home": "سەرەکی",
+  "dashboard": "داشبۆرد",
+  "users": "بەکارهێنەران",
+  "create": "دروستکردن",
+  "vendors": "فرۆشیاران",
+  "products": "بەرهەمەکان",
+  "buildings": "باڵەخانەکان",
+  "reports": "ڕاپۆرتەکان",
+  "settings": "ڕێکخستنەکان",
+  "toggleSidebar": "گۆڕینی لاتەنیشت",
+  "buildingsManagement": "بەڕێوەبردنی باڵەخانەکان",
+  "vendorsManagement": "بەڕێوەبردنی فرۆشیاران",
+  "productsManagement": "بەڕێوەبردنی بەرهەمەکان"
+}

@@ -1,0 +1,23 @@
+{
+  "appName": "أكو مول",
+  "appSubtitle": "لوحة التحكم",
+  "mainMenu": "القائمة الرئيسية",
+  "management": "الإدارة",
+  "system": "النظام",
+  "dashboard": "لوحة التحكم",
+  "users": "المستخدمين",
+  "buildings": "المباني",
+  "vendors": "البائعين",
+  "products": "المنتجات",
+  "orders": "الطلبات",
+  "supportTickets": "تذاكر الدعم",
+  "analytics": "التحليلات",
+  "reports": "التقارير",
+  "settings": "الإعدادات",
+  "accountMenu": "الحساب",
+  "manageProfile": "إدارة ملفك الشخصي",
+  "logout": "تسجيل الخروج",
+  "profile": "الملف الشخصي",
+  "themes": "السمات",
+  "History": "السجل"
+}

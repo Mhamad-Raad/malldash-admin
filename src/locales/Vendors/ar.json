@@ -1,0 +1,179 @@
+{
+  "title": "إدارة البائعين",
+  "subtitle": "إدارة ومراقبة جميع البائعين",
+  "addVendor": "إضافة بائع",
+  "filterVendors": "تصفية البائعين",
+  "searchPlaceholder": "البحث عن البائعين...",
+  "filterByType": "التصفية حسب النوع",
+  "allTypes": "جميع الأنواع",
+  "all": "الكل",
+  "tableHeaders": {
+    "business": "الأعمال",
+    "owner": "المالك",
+    "type": "النوع",
+    "contact": "جهة الاتصال",
+    "workingHours": "ساعات العمل"
+  },
+  "emptyState": {
+    "title": "لم يتم العثور على بائعين",
+    "description": "بحثنا في كل مكان ولكن لم نتمكن من العثور على أي بائعين يطابقون معاييرك. حاول ضبط الفلاتر أو مصطلحات البحث.",
+    "suggestions": {
+      "differentSearch": "جرب بحثاً مختلفاً",
+      "clearFilters": "مسح الفلاتر",
+      "checkSpelling": "تحقق من الإملاء"
+    }
+  },
+  "createVendor": {
+    "title": "إنشاء بائع جديد",
+    "subtitle": "إضافة بائع جديد إلى دليل المركز التجاري",
+    "basicInfo": {
+      "title": "المعلومات الأساسية",
+      "subtitle": "أدخل التفاصيل الأساسية للبائع",
+      "businessName": "اسم الأعمال",
+      "businessNamePlaceholder": "أدخل اسم الأعمال",
+      "businessType": "نوع الأعمال",
+      "selectType": "اختر النوع",
+      "description": "الوصف",
+      "descriptionPlaceholder": "صف عملك...",
+      "id": "المعرف"
+    },
+    "workingHours": {
+      "title": "ساعات العمل",
+      "subtitle": "حدد ساعات عمل البائع",
+      "openingTime": "وقت الافتتاح",
+      "closingTime": "وقت الإغلاق",
+      "validationError": "⚠️ يجب أن يكون وقت الإغلاق بعد وقت الافتتاح"
+    },
+    "preview": {
+      "title": "معاينة",
+      "vendorName": "اسم البائع",
+      "notSet": "غير محدد",
+      "type": "النوع",
+      "notSelected": "غير محدد",
+      "hours": "الساعات",
+      "assignedUser": "المستخدم المعين",
+      "notAssigned": "غير معين",
+      "logoImage": "الشعار/الصورة"
+    },
+    "actions": {
+      "create": "إنشاء بائع",
+      "creating": "جارٍ الإنشاء...",
+      "cancel": "إلغاء"
+    },
+    "note": "ملاحظة:",
+    "noteMessage": "جميع الحقول المحددة بـ * مطلوبة. تأكد من تقديم معلومات دقيقة للبائع.",
+    "validation": {
+      "error": "خطأ في التحقق",
+      "nameRequired": "الرجاء إدخال اسم البائع",
+      "descriptionRequired": "الرجاء إدخال وصف البائع",
+      "openingTimeRequired": "الرجاء تحديد وقت الافتتاح",
+      "closingTimeRequired": "الرجاء تحديد وقت الإغلاق",
+      "userRequired": "الرجاء تحديد مستخدم لإدارة هذا البائع",
+      "timeLogicError": "يجب أن يكون وقت الإغلاق بعد وقت الافتتاح"
+    },
+    "success": {
+      "title": "تم إنشاء البائع بنجاح!",
+      "description": "تمت إضافة {{name}} إلى النظام."
+    },
+    "error": {
+      "title": "فشل في إنشاء البائع",
+      "description": "حدث خطأ أثناء إنشاء البائع.",
+      "unexpected": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى."
+    }
+  },
+  "vendorDetail": {
+    "backToVendors": "العودة إلى البائعين",
+    "notFound": "البائع غير موجود",
+    "notFoundDescription": "البائع الذي تبحث عنه غير موجود.",
+    "basicInfo": {
+      "title": "المعلومات الأساسية",
+      "subtitle": "تحديث التفاصيل الأساسية للبائع"
+    },
+    "workingHours": {
+      "title": "ساعات العمل",
+      "subtitle": "إدارة ساعات عمل البائع"
+    },
+    "actions": {
+      "saveChanges": "حفظ التغييرات",
+      "saving": "جارٍ الحفظ...",
+      "cancel": "إلغاء",
+      "deleteVendor": "حذف البائع"
+    },
+    "preview": {
+      "title": "التفاصيل الحالية",
+      "vendorName": "اسم البائع",
+      "type": "النوع",
+      "hours": "الساعات",
+      "assignedUser": "المستخدم المعين",
+      "logoImage": "الشعار/الصورة"
+    },
+    "confirmDelete": {
+      "title": "حذف البائع",
+      "description": "هل أنت متأكد من أنك تريد حذف هذا البائع؟ لا يمكن التراجع عن هذا الإجراء.",
+      "warning": "تحذير! سيؤدي هذا إلى إزالة البائع من النظام بشكل دائم.",
+      "confirm": "حذف",
+      "cancel": "إلغاء",
+      "fieldName": "اسم البائع",
+      "willBeDeleted": "سيتم الحذف"
+    },
+    "success": {
+      "updated": "تم تحديث البائع بنجاح!",
+      "updatedDescription": "تم تحديث {{name}}.",
+      "deleted": "تم حذف البائع بنجاح!",
+      "deletedDescription": "تم حذف البائع بنجاح من النظام."
+    },
+    "error": {
+      "loadFailed": "فشل في تحميل البائع",
+      "updateFailed": "فشل في تحديث البائع",
+      "deleteFailed": "فشل في حذف البائع",
+      "missingId": "خطأ",
+      "missingIdDescription": "معرف البائع مفقود"
+    }
+  },
+  "photoUpload": {
+    "title": "شعار البائع",
+    "uploadNew": "رفع جديد",
+    "changePhoto": "تغيير الصورة",
+    "removePhoto": "إزالة الصورة"
+  },
+  "userAssignment": {
+    "title": "تعيين مستخدم",
+    "subtitle": "تعيين مستخدم لإدارة هذا البائع",
+    "selectManager": "اختر مدير البائع",
+    "currentUser": "المستخدم الحالي",
+    "searchPlaceholder": "البحث عن مستخدم...",
+    "noUserAssigned": "لا يوجد مستخدم معين",
+    "assignUser": "تعيين مستخدم",
+    "changeUser": "تغيير المستخدم",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "sendEmail": "إرسال بريد إلكتروني",
+    "call": "اتصال",
+    "roles": {
+      "admin": "مدير",
+      "manager": "مدير",
+      "vendor": "بائع",
+      "user": "مستخدم"
+    }
+  },
+  "timeline": {
+    "businessSchedule": "جدول العمل",
+    "open": "مفتوح",
+    "openLabel": "فتح",
+    "closeLabel": "إغلاق",
+    "morningHours": "🌅 ساعات الصباح",
+    "allDayService": "☀️ خدمة طوال اليوم",
+    "eveningHours": "🌙 ساعات المساء/الليل",
+    "afternoonHours": "🌤️ ساعات بعد الظهر",
+    "customSchedule": "📅 جدول مخصص"
+  },
+  "types": {
+    "allTypes": "جميع الأنواع",
+    "restaurant": "مطعم",
+    "market": "سوق",
+    "bakery": "مخبز",
+    "cafe": "مقهى",
+    "pharmacy": "صيدلية",
+    "other": "أخرى"
+  }
+}

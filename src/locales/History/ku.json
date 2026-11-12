@@ -1,0 +1,68 @@
+{
+  "page": {
+    "title": "مێژووی ئۆدیت",
+    "subtitle": "بینینی تۆمارەکانی ئۆدیتی سیستەم و مێژوویان."
+  },
+  "filters": {
+    "title": "فلتەرەکان",
+    "searchPlaceholder": "گەڕان بە ناوی ئینتیتی...",
+    "from": "لە:",
+    "to": "بۆ:",
+    "activeBadge": "فلتەرکراو",
+    "clearFilters": "سڕینەوەی هەموو فلتەرەکان",
+    "clearSearch": "سڕینەوەی گەڕان"
+  },
+  "table": {
+    "headers": {
+      "user": "بەکارهێنەر",
+      "action": "کردار",
+      "target": "ئامانج",
+      "when": "کات"
+    },
+    "emptyTitle": "هیچ مێژووی ئۆدیت نەدۆزرایەوە",
+    "emptySubtitle": "چالاکی لێرە دەردەکەوێت کاتێک کرداردێت.",
+    "error": "هەڵە: {{message}}",
+    "relative": {
+      "justNow": "ئێستا",
+      "minutes": "{{count}} خولەک پێش",
+      "hours": "{{count}} کاتژمێر پێش",
+      "days": "{{count}} رۆژ پێش"
+    },
+    "actions": {
+      "created": "دروستکرا",
+      "updated": "نوێکرایەوە",
+      "deleted": "سڕایەوە",
+      "viewed": "بینرا",
+      "unknown": "نەزانراو"
+    }
+  },
+  "details": {
+    "title": "وردەکاریی مێژووی ئۆدیت",
+    "errorLoading": "هەڵە ڕوویدا لە کاتی بارکردنی وردەکاریی ئۆدیت: {{message}}",
+    "notFound": "هیچ مێژووی ئۆدیتێک نەدۆزرایەوە.",
+    "headerSubtitle": "مێژووی ئۆدیت #{{id}}",
+    "createdValues": "نرخە دروستکراوەکان",
+    "deletedValues": "نرخە سڕاوەکان",
+    "dataChanges": "گۆڕانکارییەکانی داتا",
+    "fieldsCount": "{{count}} خانە",
+    "fieldsCountPlural": "{{count}} خانە",
+    "field": "خانە",
+    "previousValue": "نرخە پێشووەکان",
+    "newValue": "نرخی نوێ",
+    "noChangesTitle": "هیچ گۆڕانکاریی داتایەک تۆمار نەکراوە",
+    "noChangesSubtitle": "ئەم کردەوە گۆڕانکاری لە هیچ خانەیەکدا نەکرد"
+  },
+  "sidebar": {
+    "performedBy": "لە لایەن",
+    "actionDetails": "وردەکاریی کردار",
+    "action": "کردار",
+    "entity": "ئینتیتی",
+    "entityId": "ناسنامەی ئینتیتی",
+    "timestamp": "کاتی تۆمارکردن",
+    "technicalDetails": "وردەکاریی تەکنیکی",
+    "ipAddress": "ناونیشانی IP",
+    "userAgent": "ئێجەنتی بەکارهێنەر",
+    "viewEntity": "بینینی {{entityName}}"
+  }
+}
+
